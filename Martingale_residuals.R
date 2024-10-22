@@ -2,7 +2,15 @@ library(survival)
 
 df <- read.csv('pheno.csv')
 
-fit <- coxph(Surv(last_known_Age, Death) ~ Sex + PC1 + PC2 + PC3 + PC4 + PC5, data = df)
+#PC1-40
+pc_vars <- paste("PC", 1:40, sep = "")
+#geographic covariates as dummy variables
+c_vars <- paste("c", 1:15, sep = "")
+
+formula <- as.formula(paste("Surv(Age_1st_visit, last_known_age, Death) ~ Sex +", paste(pc_vars, collapse = " + "), "+", paste(c_vars, collapse = " + ")))
+
+# Fit the Cox model
+fit <- coxph(formula, data = df)
 
 residuals <- residuals(fit, type = 'martingale')
 merged_data <- cbind(df, residuals)
