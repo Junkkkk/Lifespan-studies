@@ -1,0 +1,1053 @@
+Category,Phecode,ICD10,Description
+ICD10 Certain infectious and parasitic diseases,8,A00,Intestinal infection
+ICD10 Certain infectious and parasitic diseases,8.5,A031,Bacterial enteritis
+ICD10 Certain infectious and parasitic diseases,8.52,A047,Intestinal infection due to C. difficile
+ICD10 Certain infectious and parasitic diseases,8.7,A072,Intestinal infection due to protozoa
+ICD10 Certain infectious and parasitic diseases,8.6,A085,Viral Enteritis
+ICD10 Certain infectious and parasitic diseases,10,A183,Tuberculosis
+ICD10 Certain infectious and parasitic diseases,38.2,A227,Gram positive septicemia
+ICD10 Certain infectious and parasitic diseases,480.1,A310,Bacterial pneumonia
+ICD10 Certain infectious and parasitic diseases,38.1,A394,Gram negative septicemia
+ICD10 Certain infectious and parasitic diseases,38,A414,Septicemia
+ICD10 Certain infectious and parasitic diseases,994.2,A419,Sepsis
+ICD10 Certain infectious and parasitic diseases,41,A422,Bacterial infection NOS
+ICD10 Certain infectious and parasitic diseases,686,A431,Other local infections of skin and subcutaneous tissue
+ICD10 Certain infectious and parasitic diseases,78,A630,Viral warts & HPV
+ICD10 Certain infectious and parasitic diseases,136,A799,Other infectious and parasitic diseases
+ICD10 Certain infectious and parasitic diseases,323,A831,Encephalitis
+ICD10 Certain infectious and parasitic diseases,79,A932,Viral infection
+ICD10 Certain infectious and parasitic diseases,54,B002,Herpes simplex
+ICD10 Certain infectious and parasitic diseases,79.1,B018,Varicella infection
+ICD10 Certain infectious and parasitic diseases,53,B02,Herpes zoster
+ICD10 Certain infectious and parasitic diseases,320,B021,Meningitis
+ICD10 Certain infectious and parasitic diseases,381.1,B053,Otitis media
+ICD10 Certain infectious and parasitic diseases,70.1,B159,Viral hepatitis A
+ICD10 Certain infectious and parasitic diseases,70.2,B161,Viral hepatitis B
+ICD10 Certain infectious and parasitic diseases,70.3,B182,Viral hepatitis C
+ICD10 Certain infectious and parasitic diseases,70,B190,Viral hepatitis
+ICD10 Certain infectious and parasitic diseases,202.2,B211,Non-Hodgkins lymphoma
+ICD10 Certain infectious and parasitic diseases,71.1,B227,"HIV infection, symptomatic"
+ICD10 Certain infectious and parasitic diseases,79.2,B271,Infectious mononucleosis
+ICD10 Certain infectious and parasitic diseases,369.2,B300,"Eye infection, viral"
+ICD10 Certain infectious and parasitic diseases,110.1,B35,Dermatophytosis
+ICD10 Certain infectious and parasitic diseases,110.11,B351,Dermatophytosis of nail
+ICD10 Certain infectious and parasitic diseases,110.12,B353,Althete's foot
+ICD10 Certain infectious and parasitic diseases,110.13,B356,Dermatophytosis of the body
+ICD10 Certain infectious and parasitic diseases,112.3,B372,Candidiasis of skin and nails
+ICD10 Certain infectious and parasitic diseases,112,B379,Candidiasis
+ICD10 Certain infectious and parasitic diseases,480.3,B381,Pneumonia due to fungus 
+ICD10 Certain infectious and parasitic diseases,117.4,B44,Aspergillosis
+ICD10 Certain infectious and parasitic diseases,117,B482,Mycoses
+ICD10 Certain infectious and parasitic diseases,133,B51,Arthropod-borne diseases
+ICD10 Certain infectious and parasitic diseases,134.1,B719,Intestinal helminthiases
+ICD10 Certain infectious and parasitic diseases,324,B91,Other CNS infection and poliomyelitis
+ICD10 Certain infectious and parasitic diseases,41.4,B962,E. coli
+ICD10 Diseases of the respiratory system,464,J013,Acute sinusitis
+ICD10 Diseases of the respiratory system,465.2,J02,Acute pharyngitis
+ICD10 Diseases of the respiratory system,474.1,J03,Acute tonsillitis
+ICD10 Diseases of the respiratory system,41.2,J030,Streptococcus infection
+ICD10 Diseases of the respiratory system,465.4,J042,Acute laryngitis and tracheitis
+ICD10 Diseases of the respiratory system,465,J069,Acute upper respiratory infections of multiple or unspecified sites
+ICD10 Diseases of the respiratory system,481,J101,Influenza
+ICD10 Diseases of the respiratory system,480.2,J128,Viral pneumonia
+ICD10 Diseases of the respiratory system,480.11,J13,Pneumococcal pneumonia
+ICD10 Diseases of the respiratory system,480.12,J151,Pseudomonal pneumonia
+ICD10 Diseases of the respiratory system,503,J182,Pulmonary congestion and hypostasis
+ICD10 Diseases of the respiratory system,480,J189,Pneumonia
+ICD10 Diseases of the respiratory system,483,J203,Acute bronchitis and bronchiolitis
+ICD10 Diseases of the respiratory system,476,J300,Allergic rhinitis
+ICD10 Diseases of the respiratory system,472,J312,Chronic pharyngitis and nasopharyngitis
+ICD10 Diseases of the respiratory system,475,J32,Chronic sinusitis
+ICD10 Diseases of the respiratory system,471,J338,Nasal polyps
+ICD10 Diseases of the respiratory system,470,J343,Septal Deviations/Turbinate Hypertrophy
+ICD10 Diseases of the respiratory system,474.2,J351,Chronic tonsillitis and adenoiditis
+ICD10 Diseases of the respiratory system,474,J36,Acute and chronic tonsillitis
+ICD10 Diseases of the respiratory system,473.1,J370,Chronic laryngitis
+ICD10 Diseases of the respiratory system,473,J384,Diseases of the larynx and vocal cords
+ICD10 Diseases of the respiratory system,473.3,J385,Paralysis/spasm of vocal cords or larynx
+ICD10 Diseases of the respiratory system,497,J40,Bronchitis
+ICD10 Diseases of the respiratory system,496.2,J41,Chronic bronchitis
+ICD10 Diseases of the respiratory system,496.1,J430,Emphysema
+ICD10 Diseases of the respiratory system,496.21,J44,Obstructive chronic bronchitis
+ICD10 Diseases of the respiratory system,496,J448,Chronic airway obstruction
+ICD10 Diseases of the respiratory system,495,J45,Asthma
+ICD10 Diseases of the respiratory system,495.2,J46,Asthma with exacerbation
+ICD10 Diseases of the respiratory system,496.3,J47,Bronchiectasis
+ICD10 Diseases of the respiratory system,500.2,J62,Pneumoconiosis
+ICD10 Diseases of the respiratory system,500.1,J673,Extrinsic allergic alveolitis
+ICD10 Diseases of the respiratory system,501,J690,Pneumonitis due to inhalation of food or vomitus
+ICD10 Diseases of the respiratory system,500,J691,Lung disease due to external agents
+ICD10 Diseases of the respiratory system,509.2,J80,Respiratory insufficiency
+ICD10 Diseases of the respiratory system,505,J82,Other pulmonary inflamation or edema
+ICD10 Diseases of the respiratory system,502,J848,Postinflammatory pulmonary fibrosis
+ICD10 Diseases of the respiratory system,504,J849,Other alveolar and parietoalveolar pneumonopathy
+ICD10 Diseases of the respiratory system,480.5,J85,Bronchopneumonia and lung abscess
+ICD10 Diseases of the respiratory system,507,J929,Pleurisy; pleural effusion
+ICD10 Diseases of the respiratory system,506,J938,Empyema and pneumothorax
+ICD10 Diseases of the respiratory system,519.2,J954,Respiratory complications
+ICD10 Diseases of the respiratory system,509.1,J969,Respiratory failure
+ICD10 Diseases of the respiratory system,479,J980,Other upper respiratory disease
+ICD10 Diseases of the respiratory system,508,J983,Pulmonary collapse; interstitial and compensatory emphysema
+ICD10 Diseases of the respiratory system,510,J984,Other diseases of lung
+ICD10 Diseases of the respiratory system,513.8,J986,Disorders of diaphragm
+ICD10 Diseases of the respiratory system,519,J989,"Other diseases of respiratory system, not elsewhere classified"
+ICD10 Diseases of the respiratory system,714.1,J990,Rheumatoid arthritis
+ICD10 Diseases of the digestive system,520.2,K01,Disturbances in tooth eruption
+ICD10 Diseases of the digestive system,521.1,K023,Dental caries
+ICD10 Diseases of the digestive system,522,K04,Diseases of pulp and periapical tissues
+ICD10 Diseases of the digestive system,522.1,K042,Pulpitis and necrosis of tooth pulp
+ICD10 Diseases of the digestive system,522.5,K046,Periapical abscess
+ICD10 Diseases of the digestive system,523.1,K051,Gingivitis
+ICD10 Diseases of the digestive system,523.31,K052,Acute periodontitis
+ICD10 Diseases of the digestive system,523.32,K053,Chronic periodontitis
+ICD10 Diseases of the digestive system,523,K069,Gingival and periodontal diseases
+ICD10 Diseases of the digestive system,524.3,K074,Anomalies of tooth position/malocclusion
+ICD10 Diseases of the digestive system,526.41,K076,"Temporomandibular joint disorder, unspecified"
+ICD10 Diseases of the digestive system,526.1,K090,Cysts of the jaws
+ICD10 Diseases of the digestive system,706.2,K098,Sebaceous cyst
+ICD10 Diseases of the digestive system,526.5,K102,Inflammatory conditions of jaw
+ICD10 Diseases of the digestive system,526.9,K109,Jaw disease NOS
+ICD10 Diseases of the digestive system,527,K110,Diseases of the salivary glands
+ICD10 Diseases of the digestive system,527.1,K111,Hypertrophy of salivary gland
+ICD10 Diseases of the digestive system,527.2,K112,Sialoadenitis
+ICD10 Diseases of the digestive system,528.3,K113,Cellulitis and abscess of oral soft tissues
+ICD10 Diseases of the digestive system,528.7,K115,Sialolithiasis
+ICD10 Diseases of the digestive system,528.41,K116,Cyst of the salivary gland
+ICD10 Diseases of the digestive system,527.7,K117,Disturbance of salivary secretion
+ICD10 Diseases of the digestive system,527.8,K118,Other specified diseases of the salivary glands
+ICD10 Diseases of the digestive system,528.12,K120,Oral aphthae
+ICD10 Diseases of the digestive system,528.11,K121,Stomatitis and mucositis 
+ICD10 Diseases of the digestive system,681.2,K122,Cellulitis and abscess of face/neck
+ICD10 Diseases of the digestive system,528.5,K130,Diseases of lips
+ICD10 Diseases of the digestive system,528.6,K132,Leukoplakia of oral mucosa
+ICD10 Diseases of the digestive system,528,K135,"Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue"
+ICD10 Diseases of the digestive system,529.1,K140,Glossitis
+ICD10 Diseases of the digestive system,529,K148,Diseases and other conditions of the tongue
+ICD10 Diseases of the digestive system,530.1,K20,"Esophagitis, GERD and related diseases"
+ICD10 Diseases of the digestive system,530.11,K21,GERD
+ICD10 Diseases of the digestive system,530.14,K210,Reflux esophagitis
+ICD10 Diseases of the digestive system,530.5,K220,Disorders of esophageal motility
+ICD10 Diseases of the digestive system,530.12,K221,Ulcer of esophagus
+ICD10 Diseases of the digestive system,530.3,K222,Stricture and stenosis of esophagus
+ICD10 Diseases of the digestive system,530.6,K225,"Diverticulum of esophagus, acquired"
+ICD10 Diseases of the digestive system,530.7,K226,Gastroesophageal laceration-hemorrhage syndrome
+ICD10 Diseases of the digestive system,530,K230,Diseases of esophagus
+ICD10 Diseases of the digestive system,531.2,K253,Gastric ulcer
+ICD10 Diseases of the digestive system,531.3,K261,Duodenal ulcer
+ICD10 Diseases of the digestive system,531.1,K270,Hemorrhage from gastrointestinal ulcer
+ICD10 Diseases of the digestive system,531.4,K276,"Peptic ulcer, site unspecified"
+ICD10 Diseases of the digestive system,535,K29,Gastritis and duodenitis
+ICD10 Diseases of the digestive system,535.1,K291,Acute gastritis
+ICD10 Diseases of the digestive system,535.8,K293,Other specified gastritis
+ICD10 Diseases of the digestive system,535.2,K294,Atrophic gastritis
+ICD10 Diseases of the digestive system,535.6,K298,Duodenitis
+ICD10 Diseases of the digestive system,537,K319,Other disorders of stomach and duodenum
+ICD10 Diseases of the digestive system,540.11,K350,Acute appendicitis
+ICD10 Diseases of the digestive system,540.1,K37,Appendicitis
+ICD10 Diseases of the digestive system,540,K389,Appendiceal conditions
+ICD10 Diseases of the digestive system,550.1,K403,Inguinal hernia
+ICD10 Diseases of the digestive system,550.3,K413,Femoral hernia
+ICD10 Diseases of the digestive system,550.4,K420,Umbilical hernia
+ICD10 Diseases of the digestive system,550.5,K43,Ventral hernia
+ICD10 Diseases of the digestive system,550.2,K449,Diaphragmatic hernia
+ICD10 Diseases of the digestive system,550,K460,Abdominal hernia
+ICD10 Diseases of the digestive system,555.1,K508,Regional enteritis
+ICD10 Diseases of the digestive system,555.21,K512,Ulcerative colitis 
+ICD10 Diseases of the digestive system,555.2,K513,Ulcerative colitis
+ICD10 Diseases of the digestive system,569.1,K521,Toxic gastroenteritis and colitis
+ICD10 Diseases of the digestive system,561.1,K522,Diarrhea
+ICD10 Diseases of the digestive system,558,K529,Noninfectious gastroenteritis
+ICD10 Diseases of the digestive system,441,K55,Vascular insufficiency of intestine
+ICD10 Diseases of the digestive system,441.1,K550,Acute vascular insufficiency of intestine
+ICD10 Diseases of the digestive system,441.2,K551,Chronic vascular insufficiency of intestine
+ICD10 Diseases of the digestive system,569,K552,Other disorders of intestine
+ICD10 Diseases of the digestive system,560.1,K560,Paralytic ileus
+ICD10 Diseases of the digestive system,560.4,K563,Other intestinal obstruction
+ICD10 Diseases of the digestive system,560.2,K564,Impaction of intestine
+ICD10 Diseases of the digestive system,560.3,K565,Peritoneal or intestinal adhesions
+ICD10 Diseases of the digestive system,562.1,K574,Diverticulosis
+ICD10 Diseases of the digestive system,564.1,K589,Irritable Bowel Syndrome
+ICD10 Diseases of the digestive system,564,K59,Functional digestive disorders
+ICD10 Diseases of the digestive system,563,K590,Constipation
+ICD10 Diseases of the digestive system,565.1,K620,Anal and rectal polyp
+ICD10 Diseases of the digestive system,578.8,K625,Hemorrhage of rectum and anus
+ICD10 Diseases of the digestive system,556,K626,Ulceration of the lower GI tract
+ICD10 Diseases of the digestive system,565,K629,Anal and rectal conditions
+ICD10 Diseases of the digestive system,556.1,K633,Ulceration of intestine
+ICD10 Diseases of the digestive system,567,K65,Peritonitis and retroperitoneal infections
+ICD10 Diseases of the digestive system,568.1,K660,Peritoneal adhesions  
+ICD10 Diseases of the digestive system,568,K661,Other disorders of peritoneum
+ICD10 Diseases of the digestive system,317.11,K701,Alcoholic liver damage
+ICD10 Diseases of the digestive system,573,K715,Other disorders of liver
+ICD10 Diseases of the digestive system,70.4,K739,Chronic hepatitis
+ICD10 Diseases of the digestive system,571.5,K742,Other chronic nonalcoholic liver disease
+ICD10 Diseases of the digestive system,571.6,K745,Primary biliary cirrhosis
+ICD10 Diseases of the digestive system,571.51,K746,Cirrhosis of liver without mention of alcohol
+ICD10 Diseases of the digestive system,571.8,K750,Liver abscess and sequelae of chronic liver disease
+ICD10 Diseases of the digestive system,70.9,K759,Hepatitis NOS
+ICD10 Diseases of the digestive system,573.1,K761,Chronic passive congestion of liver
+ICD10 Diseases of the digestive system,571.81,K766,Portal hypertension
+ICD10 Diseases of the digestive system,574.11,K800,Cholelithiasis with acute cholecystitis
+ICD10 Diseases of the digestive system,574.1,K802,Cholelithiasis
+ICD10 Diseases of the digestive system,574.12,K804,Cholelithiasis with other cholecystitis
+ICD10 Diseases of the digestive system,574.2,K804,Calculus of bile duct
+ICD10 Diseases of the digestive system,574.3,K818,Cholecystitis without cholelithiasis
+ICD10 Diseases of the digestive system,575.7,K820,Other disorders of gallbladder
+ICD10 Diseases of the digestive system,575.6,K824,Cholesterolosis of gallbladder
+ICD10 Diseases of the digestive system,575.1,K830,Cholangitis
+ICD10 Diseases of the digestive system,575.2,K831,Obstruction of bile duct
+ICD10 Diseases of the digestive system,577.1,K85,Acute pancreatitis
+ICD10 Diseases of the digestive system,577.2,K860,Chronic pancreatitis
+ICD10 Diseases of the digestive system,577.3,K863,Cyst and pseudocyst of pancreas
+ICD10 Diseases of the digestive system,577,K869,Diseases of pancreas
+ICD10 Diseases of the digestive system,557.1,K901,Celiac disease
+ICD10 Diseases of the digestive system,557,K909,Intestinal malabsorption 
+ICD10 Diseases of the digestive system,853,K914,Complication of colostomy or enterostomy
+ICD10 Diseases of the digestive system,575.8,K915,Other disorders of biliary tract
+ICD10 Diseases of the digestive system,578.1,K920,Hematemesis
+ICD10 Diseases of the digestive system,578.2,K921,Blood in stool
+ICD10 Diseases of the digestive system,578.9,K922,Hemorrhage of gastrointestinal tract
+ICD10 Diseases of the skin and subcutaneous tissue,686.1,L023,Carbuncle and furuncle
+ICD10 Diseases of the skin and subcutaneous tissue,681.1,L030,Cellulitis and abscess of fingers/toes
+ICD10 Diseases of the skin and subcutaneous tissue,681.3,L031,Cellulitis and abscess of arm/hand
+ICD10 Diseases of the skin and subcutaneous tissue,681.5,L031,"Cellulitis and abscess of leg, except foot"
+ICD10 Diseases of the skin and subcutaneous tissue,681.6,L031,"Cellulitis and abscess of foot, toe"
+ICD10 Diseases of the skin and subcutaneous tissue,681.7,L033,Cellulitis and abscess of trunk
+ICD10 Diseases of the skin and subcutaneous tissue,686.3,L05,Pilonidal cyst
+ICD10 Diseases of the skin and subcutaneous tissue,695.22,L105,Pemphigus and pemphigoid
+ICD10 Diseases of the skin and subcutaneous tissue,701,L119,Other hypertrophic and atrophic conditions of skin
+ICD10 Diseases of the skin and subcutaneous tissue,695.21,L122,Dermatitis herpetiformis
+ICD10 Diseases of the skin and subcutaneous tissue,690.1,L211,Seborrheic dermatitis
+ICD10 Diseases of the skin and subcutaneous tissue,687.1,L270,Rash and other nonspecific skin eruption
+ICD10 Diseases of the skin and subcutaneous tissue,939,L271,Atopic/contact dermatitis due to other or unspecified
+ICD10 Diseases of the skin and subcutaneous tissue,698,L299,Pruritus and related conditions
+ICD10 Diseases of the skin and subcutaneous tissue,696.41,L404,Psoriasis vulgaris
+ICD10 Diseases of the skin and subcutaneous tissue,696.42,L405,Psoriatic arthropathy
+ICD10 Diseases of the skin and subcutaneous tissue,696.4,L409,Psoriasis
+ICD10 Diseases of the skin and subcutaneous tissue,695.7,L430,Prurigo and Lichen
+ICD10 Diseases of the skin and subcutaneous tissue,696.3,L440,Pityriasis
+ICD10 Diseases of the skin and subcutaneous tissue,689,L449,Disorder of skin and subcutaneous tissue NOS
+ICD10 Diseases of the skin and subcutaneous tissue,947,L500,Urticaria
+ICD10 Diseases of the skin and subcutaneous tissue,695.1,L51,Toxic erythema
+ICD10 Diseases of the skin and subcutaneous tissue,695.81,L52,Erythema nodosum
+ICD10 Diseases of the skin and subcutaneous tissue,695.8,L538,Other specified erythematous conditions
+ICD10 Diseases of the skin and subcutaneous tissue,695.9,L539,Unspecified erythematous condition
+ICD10 Diseases of the skin and subcutaneous tissue,938.2,L575,Chronic dermatitis due to solar radiation
+ICD10 Diseases of the skin and subcutaneous tissue,938,L580,Dermatitis due to solar radiation
+ICD10 Diseases of the skin and subcutaneous tissue,703.1,L600,Ingrowing nail
+ICD10 Diseases of the skin and subcutaneous tissue,703,L601,"Diseases of nail, NOS"
+ICD10 Diseases of the skin and subcutaneous tissue,704.1,L669,Alopecia
+ICD10 Diseases of the skin and subcutaneous tissue,704.8,L67,Other specified diseases of hair and hair follicles
+ICD10 Diseases of the skin and subcutaneous tissue,706.1,L709,Acne
+ICD10 Diseases of the skin and subcutaneous tissue,695.3,L718,Rosacea
+ICD10 Diseases of the skin and subcutaneous tissue,704,L721,Diseases of hair and hair follicles
+ICD10 Diseases of the skin and subcutaneous tissue,705.3,L732,Hidradenitis
+ICD10 Diseases of the skin and subcutaneous tissue,694.1,L80,Vitiligo
+ICD10 Diseases of the skin and subcutaneous tissue,694.2,L817,Other dyschromia
+ICD10 Diseases of the skin and subcutaneous tissue,702.2,L82,Seborrheic keratosis
+ICD10 Diseases of the skin and subcutaneous tissue,701.6,L83,Acquired acanthosis nigricans
+ICD10 Diseases of the skin and subcutaneous tissue,700,L84,Corns and callosities
+ICD10 Diseases of the skin and subcutaneous tissue,701.1,L870,"Keratoderma, acquired"
+ICD10 Diseases of the skin and subcutaneous tissue,686.5,L88,Pyoderma
+ICD10 Diseases of the skin and subcutaneous tissue,707.1,L89,Decubitus ulcer
+ICD10 Diseases of the skin and subcutaneous tissue,702.1,L900,Actinic keratosis
+ICD10 Diseases of the skin and subcutaneous tissue,701.2,L905,Scar conditions and fibrosis of skin
+ICD10 Diseases of the skin and subcutaneous tissue,701.4,L910,Keloid scar
+ICD10 Diseases of the skin and subcutaneous tissue,701.5,L92,Abnormal granulation tissue
+ICD10 Diseases of the skin and subcutaneous tissue,695.41,L932,Cutaneous lupus erythematosus
+ICD10 Diseases of the skin and subcutaneous tissue,701.3,L940,Circumscribed scleroderma
+ICD10 Diseases of the skin and subcutaneous tissue,694.3,L959,Vascular disorders of skin
+ICD10 Diseases of the skin and subcutaneous tissue,707,L97,Chronic ulcer of skin
+ICD10 Diseases of the skin and subcutaneous tissue,686.4,L980,Pyogenic granuloma
+ICD10 Diseases of the skin and subcutaneous tissue,681,L983,Superficial cellulitis and abscess
+ICD10 Diseases of the musculoskeletal system and connective tissue,711.1,M00,Pyogenic arthritis
+ICD10 Diseases of the musculoskeletal system and connective tissue,41.1,M000,Staphylococcus infections
+ICD10 Diseases of the musculoskeletal system and connective tissue,569.2,M020,Gastrointestinal complications
+ICD10 Diseases of the musculoskeletal system and connective tissue,274.1,M10,Gout
+ICD10 Diseases of the musculoskeletal system and connective tissue,274.11,M102,Gouty arthropathy
+ICD10 Diseases of the musculoskeletal system and connective tissue,588,M103,Disorders resulting from impaired renal function
+ICD10 Diseases of the musculoskeletal system and connective tissue,274.2,M110,Crystal arthropathies
+ICD10 Diseases of the musculoskeletal system and connective tissue,274.21,M112,Chondrocalcinosis
+ICD10 Diseases of the musculoskeletal system and connective tissue,741,M12,Symptoms and disorders of the joints
+ICD10 Diseases of the musculoskeletal system and connective tissue,714,M130,Rheumatoid arthritis and other inflammatory polyarthropathies
+ICD10 Diseases of the musculoskeletal system and connective tissue,716,M138,Other arthropathies
+ICD10 Diseases of the musculoskeletal system and connective tissue,713.5,M146,Arthropathy associated with neurological disorders
+ICD10 Diseases of the musculoskeletal system and connective tissue,740.2,M151,"Osteoarthrosis, generalized"
+ICD10 Diseases of the musculoskeletal system and connective tissue,740.1,M163,Osteoarthritis; localized
+ICD10 Diseases of the musculoskeletal system and connective tissue,836,M164,Traumatic arthropathy
+ICD10 Diseases of the musculoskeletal system and connective tissue,716.2,M179,Unspecified monoarthritis
+ICD10 Diseases of the musculoskeletal system and connective tissue,740.11,M181,"Osteoarthrosis, localized, primary"
+ICD10 Diseases of the musculoskeletal system and connective tissue,740.9,M190,Osteoarthrosis NOS
+ICD10 Diseases of the musculoskeletal system and connective tissue,740.12,M192,"Osteoarthrosis, localized, secondary"
+ICD10 Diseases of the musculoskeletal system and connective tissue,736.2,M200,Acquired deformities of finger
+ICD10 Diseases of the musculoskeletal system and connective tissue,735.3,M201,Hallux valgus 
+ICD10 Diseases of the musculoskeletal system and connective tissue,735.23,M202,Hallux rigidus
+ICD10 Diseases of the musculoskeletal system and connective tissue,735.2,M203,Acquired toe deformities
+ICD10 Diseases of the musculoskeletal system and connective tissue,735.21,M204,Hammer toe 
+ICD10 Diseases of the musculoskeletal system and connective tissue,735.1,M214,Flat foot
+ICD10 Diseases of the musculoskeletal system and connective tissue,735,M216,Acquired foot deformities
+ICD10 Diseases of the musculoskeletal system and connective tissue,736,M219,Other acquired deformities of limbs
+ICD10 Diseases of the musculoskeletal system and connective tissue,742.2,M220,"Pathological, developmental or recurrent dislocation"
+ICD10 Diseases of the musculoskeletal system and connective tissue,835,M231,Internal derangement of knee
+ICD10 Diseases of the musculoskeletal system and connective tissue,739,M245,Contracture of joint
+ICD10 Diseases of the musculoskeletal system and connective tissue,741.4,M254,Joint effusions
+ICD10 Diseases of the musculoskeletal system and connective tissue,745,M255,Pain in joint
+ICD10 Diseases of the musculoskeletal system and connective tissue,741.2,M256,Stiffness of joint
+ICD10 Diseases of the musculoskeletal system and connective tissue,716.9,M259,Arthropathy NOS
+ICD10 Diseases of the musculoskeletal system and connective tissue,446.4,M313,Wegener's granulomatosis
+ICD10 Diseases of the musculoskeletal system and connective tissue,446.5,M316,Giant cell arteritis
+ICD10 Diseases of the musculoskeletal system and connective tissue,447,M319,Other disorders of arteries and arterioles
+ICD10 Diseases of the musculoskeletal system and connective tissue,695.42,M32,Systemic lupus erythematosus
+ICD10 Diseases of the musculoskeletal system and connective tissue,709.3,M341,Systemic sclerosis
+ICD10 Diseases of the musculoskeletal system and connective tissue,709.2,M350,Sicca syndrome
+ICD10 Diseases of the musculoskeletal system and connective tissue,717,M353,Polymyalgia Rheumatica
+ICD10 Diseases of the musculoskeletal system and connective tissue,729.3,M356,Panniculitis
+ICD10 Diseases of the musculoskeletal system and connective tissue,728.2,M357,Laxity of ligament or hypermobility syndrome
+ICD10 Diseases of the musculoskeletal system and connective tissue,709.6,M358,Other specified diffuse diseases of connective tissue
+ICD10 Diseases of the musculoskeletal system and connective tissue,713,M364,Arthropathy associated with other disorders classified elsewhere
+ICD10 Diseases of the musculoskeletal system and connective tissue,724.9,M402,Other unspecified back disorders
+ICD10 Diseases of the musculoskeletal system and connective tissue,737.1,M403,Kyphosis 
+ICD10 Diseases of the musculoskeletal system and connective tissue,737.3,M419,Kyphoscoliosis and scoliosis
+ICD10 Diseases of the musculoskeletal system and connective tissue,738.4,M431,Acquired spondylolisthesis
+ICD10 Diseases of the musculoskeletal system and connective tissue,723.1,M436,Torticollis
+ICD10 Diseases of the musculoskeletal system and connective tissue,715.2,M45,Ankylosing spondylitis
+ICD10 Diseases of the musculoskeletal system and connective tissue,715.1,M461,Sacroiliitis NEC
+ICD10 Diseases of the musculoskeletal system and connective tissue,710.19,M462,Unspecified osteomyelitis
+ICD10 Diseases of the musculoskeletal system and connective tissue,722.9,M464,Other and unspecified disc disorder
+ICD10 Diseases of the musculoskeletal system and connective tissue,715,M465,Other inflammatory spondylopathies
+ICD10 Diseases of the musculoskeletal system and connective tissue,721.1,M472,Spondylosis without myelopathy
+ICD10 Diseases of the musculoskeletal system and connective tissue,721,M483,Spondylosis and allied disorders
+ICD10 Diseases of the musculoskeletal system and connective tissue,743.21,M485,Pathologic fracture of vertebrae
+ICD10 Diseases of the musculoskeletal system and connective tissue,722.7,M500,Intervertebral disc disorder with myelopathy
+ICD10 Diseases of the musculoskeletal system and connective tissue,723,M500,Other disorders of cervical region
+ICD10 Diseases of the musculoskeletal system and connective tissue,765,M501,Cervical radiculitis
+ICD10 Diseases of the musculoskeletal system and connective tissue,722.1,M502,Displacement of intervertebral disc
+ICD10 Diseases of the musculoskeletal system and connective tissue,722.6,M503,Degeneration of intervertebral disc
+ICD10 Diseases of the musculoskeletal system and connective tissue,722.3,M514,Schmorl's nodes
+ICD10 Diseases of the musculoskeletal system and connective tissue,742.9,M533,Other derangement of joint
+ICD10 Diseases of the musculoskeletal system and connective tissue,721.8,M539,Other allied disorders of spine
+ICD10 Diseases of the musculoskeletal system and connective tissue,761,M542,Cervicalgia
+ICD10 Diseases of the musculoskeletal system and connective tissue,764,M543,Sciatica
+ICD10 Diseases of the musculoskeletal system and connective tissue,760,M548,Back pain
+ICD10 Diseases of the musculoskeletal system and connective tissue,772,M622,Symptoms of the muscles
+ICD10 Diseases of the musculoskeletal system and connective tissue,728,M623,"Disorders of muscle, ligament, and fascia"
+ICD10 Diseases of the musculoskeletal system and connective tissue,727.7,M624,Contracture of tendon 
+ICD10 Diseases of the musculoskeletal system and connective tissue,727.1,M65,Synovitis and tenosynovitis
+ICD10 Diseases of the musculoskeletal system and connective tissue,727.5,M660,Rupture of synovium
+ICD10 Diseases of the musculoskeletal system and connective tissue,727.6,M665,"Rupture of tendon, nontraumatic"
+ICD10 Diseases of the musculoskeletal system and connective tissue,727,M672,"Other disorders of synovium, tendon, and bursa"
+ICD10 Diseases of the musculoskeletal system and connective tissue,727.4,M674,"Ganglion and cyst of synovium, tendon, and bursa"
+ICD10 Diseases of the musculoskeletal system and connective tissue,781,M679,Symptoms involving nervous and musculoskeletal systems
+ICD10 Diseases of the musculoskeletal system and connective tissue,726.3,M704,Bursitis
+ICD10 Diseases of the musculoskeletal system and connective tissue,728.7,M72,Fasciitis
+ICD10 Diseases of the musculoskeletal system and connective tissue,728.71,M720,Contracture of palmar fascia 
+ICD10 Diseases of the musculoskeletal system and connective tissue,726.2,M753,Synoviopathy
+ICD10 Diseases of the musculoskeletal system and connective tissue,726,M771,Peripheral enthesopathies and allied syndromes
+ICD10 Diseases of the musculoskeletal system and connective tissue,726.4,M773,Calcaneal spur; Exostosis NOS
+ICD10 Diseases of the musculoskeletal system and connective tissue,726.1,M779,Enthesopathy
+ICD10 Diseases of the musculoskeletal system and connective tissue,729.1,M790,"Rheumatism, unspecified and fibrositis"
+ICD10 Diseases of the musculoskeletal system and connective tissue,770,M791,Myalgia and myositis unspecified
+ICD10 Diseases of the musculoskeletal system and connective tissue,766,M792,"Neuralgia, neuritis, and radiculitis NOS"
+ICD10 Diseases of the musculoskeletal system and connective tissue,773,M796,Pain in limb
+ICD10 Diseases of the musculoskeletal system and connective tissue,771.1,M798,Swelling of limb
+ICD10 Diseases of the musculoskeletal system and connective tissue,729,M798,Other disorders of soft tissues
+ICD10 Diseases of the musculoskeletal system and connective tissue,743.11,M819,Osteoporosis NOS
+ICD10 Diseases of the musculoskeletal system and connective tissue,733,M84,Other disorders of bone and cartilage
+ICD10 Diseases of the musculoskeletal system and connective tissue,733.8,M840,Malunion and nonunion of fracture
+ICD10 Diseases of the musculoskeletal system and connective tissue,743.9,M859,Osteopenia or other disorder of bone and cartilage
+ICD10 Diseases of the musculoskeletal system and connective tissue,733.4,M87,Aseptic necrosis of bone
+ICD10 Diseases of the musculoskeletal system and connective tissue,731.1,M889,Osteitis deformans 
+ICD10 Diseases of the musculoskeletal system and connective tissue,756.5,M898,Congenital osteodystrophies
+ICD10 Diseases of the musculoskeletal system and connective tissue,282.8,M904,Other hemoglobinopathies
+ICD10 Diseases of the musculoskeletal system and connective tissue,732.1,M925,Juvenile osteochondrosis
+ICD10 Diseases of the musculoskeletal system and connective tissue,732,M938,Osteochondropathies
+ICD10 Diseases of the musculoskeletal system and connective tissue,742.8,M949,Articular cartilage disorder
+ICD10 Diseases of the musculoskeletal system and connective tissue,738,M951,Other acquired musculoskeletal deformity
+ICD10 Diseases of the musculoskeletal system and connective tissue,722.8,M961,Postlaminectomy syndrome
+ICD10 Diseases of the musculoskeletal system and connective tissue,720,M995,Spinal stenosis
+ICD10 Diseases of the genitourinary system,593,N028,Hematuria
+ICD10 Diseases of the genitourinary system,580.12,N033,Non-proliferative glomerulonephritis
+ICD10 Diseases of the genitourinary system,580.14,N039,"Chronic glomerulonephritis, NOS"
+ICD10 Diseases of the genitourinary system,580.11,N063,Proliferative glomerulonephritis
+ICD10 Diseases of the genitourinary system,580.2,N088,Nephrotic syndrome without mention of glomerulonephritis
+ICD10 Diseases of the genitourinary system,586.4,N111,Stricture/obstruction of ureter
+ICD10 Diseases of the genitourinary system,595,N132,Hydronephrosis
+ICD10 Diseases of the genitourinary system,599.1,N139,Urinary obstruction
+ICD10 Diseases of the genitourinary system,590,N159,Pyelonephritis
+ICD10 Diseases of the genitourinary system,580.32,N162,Nephritis and nephropathy with pathological lesion
+ICD10 Diseases of the genitourinary system,709.7,N164,Unspecified diffuse connective tissue disease
+ICD10 Diseases of the genitourinary system,585.1,N179,Acute renal failure
+ICD10 Diseases of the genitourinary system,585.3,N18,Chronic renal failure 
+ICD10 Diseases of the genitourinary system,585.2,N19,Renal failure NOS
+ICD10 Diseases of the genitourinary system,594,N20,Urinary calculus
+ICD10 Diseases of the genitourinary system,594.1,N200,Calculus of kidney
+ICD10 Diseases of the genitourinary system,594.3,N201,Calculus of ureter
+ICD10 Diseases of the genitourinary system,594.2,N219,Calculus of lower urinary tract
+ICD10 Diseases of the genitourinary system,594.8,N23,Renal colic
+ICD10 Diseases of the genitourinary system,586.11,N279,Small kidney
+ICD10 Diseases of the genitourinary system,586.3,N280,Vascular disorders of kidney/hypertrophy
+ICD10 Diseases of the genitourinary system,586.2,N281,"Cyst of kidney, acquired"
+ICD10 Diseases of the genitourinary system,586,N298,Other disorders of the kidney and ureters
+ICD10 Diseases of the genitourinary system,592.11,N300,Acute cystitis
+ICD10 Diseases of the genitourinary system,592.13,N301,Chronic interstitial cystitis
+ICD10 Diseases of the genitourinary system,592.12,N302,Chronic cystitis
+ICD10 Diseases of the genitourinary system,592.1,N308,Cystitis
+ICD10 Diseases of the genitourinary system,596.5,N31,Functional disorders of bladder
+ICD10 Diseases of the genitourinary system,596.1,N320,Bladder neck obstruction
+ICD10 Diseases of the genitourinary system,596,N33,Other disorders of bladder
+ICD10 Diseases of the genitourinary system,592.2,N342,Urethritis and urethral syndrome
+ICD10 Diseases of the genitourinary system,597.1,N358,Urethral stricture 
+ICD10 Diseases of the genitourinary system,597,N36,Other disorders of urethra and urinary tract
+ICD10 Diseases of the genitourinary system,599,N369,Other symptoms/disorders or the urinary system
+ICD10 Diseases of the genitourinary system,591,N390,Urinary tract infection
+ICD10 Diseases of the genitourinary system,624.9,N393,"stress incontinence, female"
+ICD10 Diseases of the genitourinary system,600,N40,Hyperplasia of prostate
+ICD10 Diseases of the genitourinary system,601.1,N41,Prostatitis
+ICD10 Diseases of the genitourinary system,601.12,N411,Chronic prostatitis
+ICD10 Diseases of the genitourinary system,601.11,N412,Acute prostatitis
+ICD10 Diseases of the genitourinary system,602,N42,Other disorders of prostate
+ICD10 Diseases of the genitourinary system,603.1,N433,Hydrocele
+ICD10 Diseases of the genitourinary system,603,N44,Other disorders of testis
+ICD10 Diseases of the genitourinary system,604.1,N47,Redundant prepuce and phimosis/BXO
+ICD10 Diseases of the genitourinary system,604,N480,Disorders of penis
+ICD10 Diseases of the genitourinary system,601.4,N481,Balanoposthitis
+ICD10 Diseases of the genitourinary system,601.8,N482,Other inflammatory disorders of male genital organs
+ICD10 Diseases of the genitourinary system,605,N484,Erectile dysfunction 
+ICD10 Diseases of the genitourinary system,608,N51,Other disorders of male genital organs
+ICD10 Diseases of the genitourinary system,610.8,N60,Other specified benign mammary dysplasias
+ICD10 Diseases of the genitourinary system,610.1,N600,Cystic mastopathy
+ICD10 Diseases of the genitourinary system,610.2,N602,Fibroadenosis of breast
+ICD10 Diseases of the genitourinary system,610.3,N603,Fibrosclerosis of breast
+ICD10 Diseases of the genitourinary system,613.1,N61,Inflammatory disease of breast
+ICD10 Diseases of the genitourinary system,612.2,N62,Hypertrophy of breast 
+ICD10 Diseases of the genitourinary system,611.3,N63,Lump or mass in breast
+ICD10 Diseases of the genitourinary system,613.5,N644,Mastodynia
+ICD10 Diseases of the genitourinary system,613.7,N645,Other signs and symptoms in breast
+ICD10 Diseases of the genitourinary system,613.8,N648,Other specified disorders of breast
+ICD10 Diseases of the genitourinary system,613.9,N649,Breast disorder NOS
+ICD10 Diseases of the genitourinary system,614.3,N70,Pelvic inflammatory disease 
+ICD10 Diseases of the genitourinary system,614.32,N701,Chronic inflammatory pelvic disease
+ICD10 Diseases of the genitourinary system,614.4,N719,"Inflammatory diseases of uterus, except cervix"
+ICD10 Diseases of the genitourinary system,614.51,N72,Cervicitis and endocervicitis
+ICD10 Diseases of the genitourinary system,614.1,N736,"Pelvic peritoneal adhesions, female  "
+ICD10 Diseases of the genitourinary system,614.33,N739,"Pelvic inflammatory disease, NOS"
+ICD10 Diseases of the genitourinary system,614.5,N75,"Inflammatory disease of cervix, vagina, and vulva"
+ICD10 Diseases of the genitourinary system,614.53,N758,Cyst or abscess of Bartholin's gland
+ICD10 Diseases of the genitourinary system,614.52,N763,Vaginitis and vulvovaginitis
+ICD10 Diseases of the genitourinary system,614.54,N764,Abscess or ulceration of vulva
+ICD10 Diseases of the genitourinary system,615,N809,Endometriosis
+ICD10 Diseases of the genitourinary system,618.2,N814,Uterine/Uterovaginal prolapse
+ICD10 Diseases of the genitourinary system,618.6,N815,"Vaginal enterocele, congenital or acquired"
+ICD10 Diseases of the genitourinary system,618,N818,Genital prolapse
+ICD10 Diseases of the genitourinary system,618.1,N819,Prolapse of vaginal walls
+ICD10 Diseases of the genitourinary system,628,N832,Ovarian cyst
+ICD10 Diseases of the genitourinary system,624.2,N833,Atrophy of female genital tract
+ICD10 Diseases of the genitourinary system,619.1,N835,"Noninflammatory disorders of ovary, fallopian tube, and broad ligament"
+ICD10 Diseases of the genitourinary system,622.2,N841,Mucous polyp of cervix
+ICD10 Diseases of the genitourinary system,622,N842,Polyp of female genital organs
+ICD10 Diseases of the genitourinary system,622.1,N849,Polyp of corpus uteri
+ICD10 Diseases of the genitourinary system,621,N851,Endometrial hyperplasia
+ICD10 Diseases of the genitourinary system,617,N856,"Disorders secondary to childbirth, surgery, trauma"
+ICD10 Diseases of the genitourinary system,619.2,N858,"Disorders of uterus, NEC"
+ICD10 Diseases of the genitourinary system,619.3,N882,Noninflammatory disorders of cervix
+ICD10 Diseases of the genitourinary system,619.4,N895,Noninflammatory disorders of vagina
+ICD10 Diseases of the genitourinary system,626.1,N897,Irregular menstrual cycle/bleeding
+ICD10 Diseases of the genitourinary system,620,N902,Dysplasia of female genital organs
+ICD10 Diseases of the genitourinary system,624.1,N904,Dystrophy of female genital tract
+ICD10 Diseases of the genitourinary system,623,N906,Hypertrophy of female genital organs
+ICD10 Diseases of the genitourinary system,626.11,N915,Absent or infrequent menstruation
+ICD10 Diseases of the genitourinary system,626.12,N920,Excessive or frequent menstruation
+ICD10 Diseases of the genitourinary system,626.14,N923,Irregular menstrual bleeding
+ICD10 Diseases of the genitourinary system,627.4,N924,Premenopausal menorrhagia
+ICD10 Diseases of the genitourinary system,626.13,N926,Irregular menstrual cycle
+ICD10 Diseases of the genitourinary system,626,N939,Disorders of menstruation and other abnormal bleeding from female genital tract
+ICD10 Diseases of the genitourinary system,625.1,N942,Dyspareunia
+ICD10 Diseases of the genitourinary system,626.4,N943,Premenstrual tension syndromes
+ICD10 Diseases of the genitourinary system,626.2,N946,Dysmenorrhea
+ICD10 Diseases of the genitourinary system,625,N948,Pain and other symptoms associated with female genital organs
+ICD10 Diseases of the genitourinary system,619,N949,Noninflammatory female genital disorders
+ICD10 Diseases of the genitourinary system,627.1,N950,Postmenopausal bleeding
+ICD10 Diseases of the genitourinary system,627.2,N951,Symptomatic menopause
+ICD10 Diseases of the genitourinary system,627.3,N952,Postmenopausal atrophic vaginitis
+ICD10 Diseases of the genitourinary system,627,N959,Menopausal and postmenopausal disorders
+ICD10 Diseases of the genitourinary system,626.8,N979,"Infertility, female"
+ICD10 Diseases of the genitourinary system,618.5,N993,Prolapse of vaginal vault after hysterectomy
+ICD10 Diseases of the genitourinary system,597.2,N995,Urinary complications NEC
+"ICD10 Pregnancy, childbirth and the puerperium",634.1,O019,Missed abortion/Hydatidiform mole
+"ICD10 Pregnancy, childbirth and the puerperium",634,O036,Miscarriage; stillbirth
+"ICD10 Pregnancy, childbirth and the puerperium",634.3,O06,Ectopic pregnancy
+"ICD10 Pregnancy, childbirth and the puerperium",642.1,O159,Preeclampsia and eclampsia
+"ICD10 Pregnancy, childbirth and the puerperium",642,O16,"Hypertension complicating pregnancy, childbirth, and the puerperium"
+"ICD10 Pregnancy, childbirth and the puerperium",636.3,O208,Hemorrhage in early pregnancy
+"ICD10 Pregnancy, childbirth and the puerperium",643.1,O211,Hyperemesis gravidarum
+"ICD10 Pregnancy, childbirth and the puerperium",643,O212,Excessive vomiting in pregnancy
+"ICD10 Pregnancy, childbirth and the puerperium",649.1,O24,Diabetes or abnormal glucose tolerance complicating pregnancy
+"ICD10 Pregnancy, childbirth and the puerperium",646,O269,Other complications of pregnancy NEC
+"ICD10 Pregnancy, childbirth and the puerperium",619.5,O347,Noninflammatory disorders of vulva and perineum
+"ICD10 Pregnancy, childbirth and the puerperium",654.2,O361,Rhesus isoimmunization in pregnancy
+"ICD10 Pregnancy, childbirth and the puerperium",655,O43,Known or suspected fetal abnormality affecting management of mother
+"ICD10 Pregnancy, childbirth and the puerperium",635.2,O450,"Antepartum hemorrhage, abruptio placentae, and placenta previa"
+"ICD10 Pregnancy, childbirth and the puerperium",636,O471,Early or threatened labor; hemorrhage in early pregnancy
+"ICD10 Pregnancy, childbirth and the puerperium",636.2,O60,Early onset of delivery
+"ICD10 Pregnancy, childbirth and the puerperium",645,O619,Late pregnancy and failed induction
+"ICD10 Pregnancy, childbirth and the puerperium",661,O62,Fetal distress and abnormal forces of labor
+"ICD10 Pregnancy, childbirth and the puerperium",654.1,O658,"Abnormality of organs and soft tissues of pelvis complicating pregnancy, childbirth, or the puerperium"
+"ICD10 Pregnancy, childbirth and the puerperium",652,O669,Malposition and malpresentation of fetus or obstruction
+"ICD10 Pregnancy, childbirth and the puerperium",663,O692,Umbilical cord complications during labor and delivery
+"ICD10 Pregnancy, childbirth and the puerperium",665,O71,Obstetrical/birth trauma
+"ICD10 Pregnancy, childbirth and the puerperium",635.3,O72,Placenta previa and abruptio placenta
+"ICD10 Pregnancy, childbirth and the puerperium",653,O756,Problems associated with amniotic cavity and membranes
+"ICD10 Pregnancy, childbirth and the puerperium",650,O800,Normal delivery
+"ICD10 Pregnancy, childbirth and the puerperium",669,O814,Complications of labor and delivery NEC
+"ICD10 Pregnancy, childbirth and the puerperium",651,O849,Multiple gestation
+"ICD10 Pregnancy, childbirth and the puerperium",647.1,O863,Infections of genitourinary tract during pregnancy
+"ICD10 Pregnancy, childbirth and the puerperium",671,O881,Venous/cerebrovascular complications embolism in pregnancy and the puerperium
+"ICD10 Pregnancy, childbirth and the puerperium",674,O903,Other complications of the puerperium NEC
+"ICD10 Pregnancy, childbirth and the puerperium",647,O984,Infectious and parasitic complications affecting pregnancy
+"ICD10 Pregnancy, childbirth and the puerperium",644,O990,Anemia during pregnancy
+"ICD10 Pregnancy, childbirth and the puerperium",649,O997,"Other conditions or status of the mother complicating pregnancy, childbirth, or the puerperium"
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",752.1,Q018,Neural tube defects
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",752.11,Q053,Spina bifida
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",752.2,Q07,Other specified congenital anomalies of nervous system
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",753.1,Q124,Congenital cataract and lens anomalies
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",747.1,Q209,Cardiac congenital anomalies
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",747.11,Q210,Cardiac shunt/ heart septal defect
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",747.12,Q252,Valvular heart disease/ heart chambers
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",747.13,Q255,Congenital anomalies of great vessels
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",747.2,Q283,Congenital anomalies of peripheral vascular system
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",749,Q30,Congenital anomalies of face and neck
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",748,Q312,"Anomalies of respiratory system, congenital"
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",750.13,Q383,Congenital anomalies of mouth/tongue
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",750.14,Q39,Congenital anomalies of esophagus
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",750.15,Q401,Congenital anomalies of stomach
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",750.21,Q430,Congenital anomalies of intestine
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",750.22,Q446,"Congenital anomaly of gallbladder, bile ducts, liver, pancreas"
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",751.11,Q517,Congenital anomalies of female genital organs
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",751.12,Q544,Congenital anomalies of male genital organs
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",751.21,Q615,Cystic kidney disease
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",751.2,Q628,Congenital anomalies of urinary system
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",751.22,Q631,Other specified congenital anomalies of kidney
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",755.61,Q659,Congenital hip dysplasia and deformity
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",755.1,Q665,Congenital deformities of feet
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",755.6,Q682,"Other congenital anomalies of lower limb, including pelvic girdle"
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",756,Q688,Other congenital musculoskeletal anomalies
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",376,Q752,Disorders of the orbit
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",754,Q761,Congenital musculoskeletal deformities of spine
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",737,Q763,Curvature of spine
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",756.3,Q798,"Congenital anomalies of muscle, tendon, fascia, and connective tissue"
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",691,Q811,Congenital anomalies of skin
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",612.3,Q839,Congenital anomalies of breast
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",199.4,Q850,Neurofibromatosis
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",759,Q851,Other and unspecified congenital anomalies
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",758,Q874,Chromosomal anomalies and genetic disorders
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",759.1,Q892,"Anomalies of endocrine glands, congenital"
+"ICD10 Congenital malformations, deformations and chromosomal abnormalities",758.1,Q90,Chromosomal anomalies
+ICD10 Neoplasms,145.1,C001,Cancer of lip
+ICD10 Neoplasms,145.2,C023,Cancer of tongue
+ICD10 Neoplasms,145.5,C049,Cancer of the mouth floor
+ICD10 Neoplasms,145,C052,Cancer of mouth
+ICD10 Neoplasms,145.3,C089,Cancer of major salivary glands
+ICD10 Neoplasms,149.1,C103,Cancer of oropharynx
+ICD10 Neoplasms,149.3,C138,Cancer of hypopharynx
+ICD10 Neoplasms,149,C148,"Cancer of larynx, pharynx, nasal cavities"
+ICD10 Neoplasms,150,C151,Cancer of esophagus
+ICD10 Neoplasms,151,C169,Cancer of stomach
+ICD10 Neoplasms,159.2,C17,"Malignant neoplasm of small intestine, including duodenum"
+ICD10 Neoplasms,153.2,C188,Colon cancer
+ICD10 Neoplasms,153.3,C20,"Malignant neoplasm of rectum, rectosigmoid junction, and anus"
+ICD10 Neoplasms,155,C22,Cancer of liver and intrahepatic bile duct
+ICD10 Neoplasms,155.1,C227,"Malignant neoplasm of liver, primary"
+ICD10 Neoplasms,159.3,C241,Malignant neoplasm of gallbladder and extrahepatic bile ducts
+ICD10 Neoplasms,157,C25,Pancreatic cancer
+ICD10 Neoplasms,159,C261,Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum
+ICD10 Neoplasms,149.9,C311,Cancer of of nasal cavities
+ICD10 Neoplasms,165.1,C348,Cancer of bronchus; lung
+ICD10 Neoplasms,164,C383,Cancer of intrathoracic organs
+ICD10 Neoplasms,170.1,C401,Bone cancer
+ICD10 Neoplasms,172.11,C437,Melanomas of skin
+ICD10 Neoplasms,172.2,C449,Other non-epithelial cancer of skin
+ICD10 Neoplasms,170.2,C47,Cancer of connective tissue
+ICD10 Neoplasms,159.4,C481,Malignant neoplasm of retroperitoneum and peritoneum
+ICD10 Neoplasms,174.11,C504,Malignant neoplasm of female breast
+ICD10 Neoplasms,184.1,C518,Malignant neoplasm of ovary and other uterine adnexa
+ICD10 Neoplasms,180.1,C538,Cervical cancer
+ICD10 Neoplasms,182,C542,Malignant neoplasm of uterus
+ICD10 Neoplasms,184.11,C56,Malignant neoplasm of ovary
+ICD10 Neoplasms,187.2,C62,Malignant neoplasm of testis
+ICD10 Neoplasms,187.1,C631,Malignant neoplasm of unspecified male genital organ
+ICD10 Neoplasms,189.11,C64,"Malignant neoplasm of kidney, except pelvis"
+ICD10 Neoplasms,189.12,C65,Malignant neoplasm of renal pelvis
+ICD10 Neoplasms,189.21,C676,Malignant neoplasm of bladder
+ICD10 Neoplasms,189.4,C681,Malignant neoplasm of other urinary organs
+ICD10 Neoplasms,190,C69,Cancer of eye
+ICD10 Neoplasms,191.11,C715,Cancer of brain
+ICD10 Neoplasms,191.1,C724,Cancer of brain and nervous system
+ICD10 Neoplasms,193,C73,Thyroid cancer
+ICD10 Neoplasms,194,C752,Cancer of other endocrine glands
+ICD10 Neoplasms,195.1,C764,"Malignant neoplasm, other"
+ICD10 Neoplasms,198.1,C772,Secondary malignancy of lymph nodes
+ICD10 Neoplasms,198.2,C780,Secondary malignancy of respiratory organs
+ICD10 Neoplasms,198.3,C786,Secondary malignant neoplasm of digestive systems
+ICD10 Neoplasms,198.4,C787,Secondary malignant neoplasm of liver
+ICD10 Neoplasms,198,C790,Secondary malignant neoplasm
+ICD10 Neoplasms,198.7,C792,Secondary malignant neoplasm of skin
+ICD10 Neoplasms,198.5,C793,Secondary malignancy of brain/spine
+ICD10 Neoplasms,198.6,C795,Secondary malignancy of bone
+ICD10 Neoplasms,201,C819,Hodgkin's disease
+ICD10 Neoplasms,202.21,C82,Nodular lymphoma
+ICD10 Neoplasms,202.24,C833,Large cell lymphoma
+ICD10 Neoplasms,270.35,C880,Macroglobulinemia
+ICD10 Neoplasms,204.4,C889,Multiple myeloma
+ICD10 Neoplasms,204.11,C910,"Lymphoid leukemia, acute"
+ICD10 Neoplasms,204.12,C911,"Lymphoid leukemia, chronic"
+ICD10 Neoplasms,204.1,C913,Lymphoid leukemia
+ICD10 Neoplasms,204.22,C921,"Myeloid leukemia, chronic"
+ICD10 Neoplasms,204.21,C925,"Myeloid leukemia, acute"
+ICD10 Neoplasms,204.3,C93,Monocytic leukemia
+ICD10 Neoplasms,204,C943,Leukemia
+ICD10 Neoplasms,149.4,D020,Cancer of larynx
+ICD10 Neoplasms,165,D024,Cancer within the respiratory system
+ICD10 Neoplasms,172.3,D045,Carcinoma in situ of skin
+ICD10 Neoplasms,174.1,D05,Breast cancer 
+ICD10 Neoplasms,187,D050,Cancer of other male genital organs
+ICD10 Neoplasms,180.3,D069,Cervical intraepithelial neoplasia  
+ICD10 Neoplasms,184.2,D072,"Cancer of other female genital organs, excluding uterus and ovary"
+ICD10 Neoplasms,185,D075,Cancer of prostate
+ICD10 Neoplasms,195,D09,"Cancer, suspected or other"
+ICD10 Neoplasms,210,D11,"Benign neoplasm of lip, oral cavity, and pharynx"
+ICD10 Neoplasms,208,D120,Benign neoplasm of colon
+ICD10 Neoplasms,212,D151,Benign neoplasm of respiratory and intrathoracic organs
+ICD10 Neoplasms,213,D162,Benign neoplasm of bone and articular cartilage
+ICD10 Neoplasms,214.1,D172,Lipoma of skin and subcutaneous tissue
+ICD10 Neoplasms,214,D177,Lipoma
+ICD10 Neoplasms,228,D181,"Hemangioma and lymphangioma, any site"
+ICD10 Neoplasms,211,D191,Benign neoplasm of other parts of digestive system
+ICD10 Neoplasms,229,D197,Benign neoplasm of unspecified sites
+ICD10 Neoplasms,216,D231,Benign neoplasm of skin
+ICD10 Neoplasms,610.4,D24,Benign neoplasm of breast
+ICD10 Neoplasms,218.1,D259,Uterine leiomyoma
+ICD10 Neoplasms,218.2,D26,Other benign neoplasm of uterus
+ICD10 Neoplasms,220,D27,Benign neoplasm of ovary
+ICD10 Neoplasms,221,D282,Benign neoplasm of other female genital organs
+ICD10 Neoplasms,222,D294,Benign neoplasm of male genital organs
+ICD10 Neoplasms,223,D303,Benign neoplasm of kidney and other urinary organs
+ICD10 Neoplasms,224,D310,Benign neoplasm of eye
+ICD10 Neoplasms,224.1,D314,"Benign neoplasm of eye, uveal"
+ICD10 Neoplasms,225.1,D320,"Benign neoplasm of brain, cranial nerves, meninges"
+ICD10 Neoplasms,225.2,D334,"Benign neoplasm of spinal cord, meninges"
+ICD10 Neoplasms,226,D34,Benign neoplasm of thyroid glands
+ICD10 Neoplasms,227.1,D350,Benign neoplasm of adrenal gland
+ICD10 Neoplasms,227.2,D351,Benign neoplasm of parathyroid gland
+ICD10 Neoplasms,227.3,D352,Benign neoplasm of pituitary gland and craniopharyngeal duct 
+ICD10 Neoplasms,215,D361,Other benign neoplasm of connective and other soft tissue
+ICD10 Neoplasms,158,D377,Neoplasm of unspecified nature of digestive system
+ICD10 Neoplasms,184,D391,Cancer of other female genital organs
+ICD10 Neoplasms,187.8,D409,Neoplasm of uncertain behavior of male genital organs
+ICD10 Neoplasms,199,D410,Neoplasm of uncertain behavior
+ICD10 Neoplasms,189.2,D414,Cancer of bladder
+ICD10 Neoplasms,191,D42,Manlignant and unknown neoplasms of brain and nervous system
+ICD10 Neoplasms,200.1,D45,Polycythemia vera
+ICD10 Neoplasms,173,D485,Neoplasm of uncertain behavior of skin
+ICD10 Neoplasms,174.3,D486,Neoplasm of uncertain behavior of breast
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,280.1,D50,"Iron deficiency anemias, unspecified or not due to blood loss"
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,280.2,D500,Iron deficiency anemia secondary to blood loss 
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,281.11,D510,Pernicious anemia
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,281.12,D519,Other vitamin B12 deficiency anemia
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,281.13,D520,Folate-deficiency anemia
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,281.9,D539,Deficiency anemias
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,282.9,D55,Other hereditary hemolytic anemias
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,282.5,D570,Sickle cell anemia
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,283.1,D591,Autoimmune hemolytic anemias
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,284,D618,Aplastic anemia
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,285.1,D62,Acute posthemorrhagic anemia
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,285.22,D630,Anemia in neoplastic disease
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,285.2,D638,Anemia of chronic disease
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,285,D649,Other anemias
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,286.13,D66,Congenital factor VIII disorder
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,286.11,D680,Von willebrand's disease
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,286.12,D682,Congenital deficiency of other clotting factors 
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,286.5,D683,Hemorrhagic disorder due to intrinsic circulating anticoagulants
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,286.7,D688,Other and unspecified coagulation defects
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,287,D69,Purpura and other hemorrhagic conditions
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,287.31,D693,Primary thrombocytopenia
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,287.32,D695,Secondary thrombocytopenia
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,287.3,D696,Thrombocytopenia
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,288.11,D70,Neutropenia
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,288.3,D721,Eosinophilia
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,289.5,D73,Diseases of spleen
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,289.8,D751,"Polycythemia vera, secondary"
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,200,D752,Myeloproliferative disease
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,289,D77,Other diseases of blood and blood-forming organs
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,279.11,D801,Deficiency of humoral immunity
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,279.1,D810,Immunity deficiency
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,697,D869,Sarcoidosis
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,270.32,D891,Paraproteinemia
+ICD10 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,279,D899,Disorders involving the immune mechanism
+"ICD10 Endocrine, nutritional and metabolic diseases",244.5,E002,Congenital hypothyroidism
+"ICD10 Endocrine, nutritional and metabolic diseases",244.1,E032,Secondary hypothyroidism
+"ICD10 Endocrine, nutritional and metabolic diseases",244.2,E033,Acquired hypothyroidism
+"ICD10 Endocrine, nutritional and metabolic diseases",244.4,E039,Hypothyroidism NOS
+"ICD10 Endocrine, nutritional and metabolic diseases",241.1,E041,Nontoxic uninodular goiter
+"ICD10 Endocrine, nutritional and metabolic diseases",241.2,E042,Nontoxic multinodular goiter
+"ICD10 Endocrine, nutritional and metabolic diseases",240,E049,Simple and unspecified goiter
+"ICD10 Endocrine, nutritional and metabolic diseases",242,E05,Thyrotoxicosis with or without goiter
+"ICD10 Endocrine, nutritional and metabolic diseases",242.1,E050,Graves' disease
+"ICD10 Endocrine, nutritional and metabolic diseases",242.2,E052,Toxic multinodular goiter
+"ICD10 Endocrine, nutritional and metabolic diseases",245.21,E063,Chronic lymphocytic thyroiditis
+"ICD10 Endocrine, nutritional and metabolic diseases",245,E069,Thyroiditis
+"ICD10 Endocrine, nutritional and metabolic diseases",246,E07,Other disorders of thyroid
+"ICD10 Endocrine, nutritional and metabolic diseases",250.11,E101,Type 1 diabetes with ketoacidosis
+"ICD10 Endocrine, nutritional and metabolic diseases",250.12,E102,Type 1 diabetes with renal manifestations
+"ICD10 Endocrine, nutritional and metabolic diseases",250.13,E103,Type 1 diabetes with ophthalmic manifestations
+"ICD10 Endocrine, nutritional and metabolic diseases",250.23,E103,Type 2 diabetes with ophthalmic manifestations
+"ICD10 Endocrine, nutritional and metabolic diseases",250.14,E104,Type 1 diabetes with neurological manifestations
+"ICD10 Endocrine, nutritional and metabolic diseases",250.24,E104,Type 2 diabetes with neurological manifestations
+"ICD10 Endocrine, nutritional and metabolic diseases",250.1,E108,Type 1 diabetes
+"ICD10 Endocrine, nutritional and metabolic diseases",250.21,E111,Type 2 diabetes with ketoacidosis
+"ICD10 Endocrine, nutritional and metabolic diseases",250.22,E112,Type 2 diabetes with renal manifestations
+"ICD10 Endocrine, nutritional and metabolic diseases",250.7,E133,Diabetic retinopathy
+"ICD10 Endocrine, nutritional and metabolic diseases",250.2,E137,Type 2 diabetes
+"ICD10 Endocrine, nutritional and metabolic diseases",251.1,E162,Hypoglycemia
+"ICD10 Endocrine, nutritional and metabolic diseases",252.1,E210,Hyperparathyroidism
+"ICD10 Endocrine, nutritional and metabolic diseases",253.7,E222,Other disorders of neurohypophysis
+"ICD10 Endocrine, nutritional and metabolic diseases",253.1,E229,Pituitary hyperfunction
+"ICD10 Endocrine, nutritional and metabolic diseases",253.2,E230,Pituitary hypofunction
+"ICD10 Endocrine, nutritional and metabolic diseases",258,E231,Iatrogenic endocrine disorders
+"ICD10 Endocrine, nutritional and metabolic diseases",253.3,E232,Diabetes insipidus
+"ICD10 Endocrine, nutritional and metabolic diseases",253,E236,Disorders of the pituitary gland and its hypothalamic control
+"ICD10 Endocrine, nutritional and metabolic diseases",255.11,E248,Cushing's syndrome
+"ICD10 Endocrine, nutritional and metabolic diseases",255.12,E26,Hyperaldosteronism
+"ICD10 Endocrine, nutritional and metabolic diseases",255.21,E272,Glucocorticoid deficiency
+"ICD10 Endocrine, nutritional and metabolic diseases",255,E278,Disorders of adrenal glands
+"ICD10 Endocrine, nutritional and metabolic diseases",256.4,E282,Polycystic ovaries
+"ICD10 Endocrine, nutritional and metabolic diseases",257.1,E291,Testicular hypofunction
+"ICD10 Endocrine, nutritional and metabolic diseases",259,E310,Other endocrine disorders
+"ICD10 Endocrine, nutritional and metabolic diseases",253.11,E344,Acromegaly and gigantism
+"ICD10 Endocrine, nutritional and metabolic diseases",260,E440,Protein-calorie malnutrition
+"ICD10 Endocrine, nutritional and metabolic diseases",261.2,E511,Vitamin B-complex deficiencies
+"ICD10 Endocrine, nutritional and metabolic diseases",261.4,E559,Vitamin D deficiency
+"ICD10 Endocrine, nutritional and metabolic diseases",262,E58,Mineral deficiency NEC
+"ICD10 Endocrine, nutritional and metabolic diseases",278.3,E65,Localized adiposity
+"ICD10 Endocrine, nutritional and metabolic diseases",278.1,E660,Obesity
+"ICD10 Endocrine, nutritional and metabolic diseases",513.3,E662,Hypoventilation
+"ICD10 Endocrine, nutritional and metabolic diseases",271.3,E743,Intestinal disaccharidase deficiencies and disaccharide malabsorption
+"ICD10 Endocrine, nutritional and metabolic diseases",331,E750,Other cerebral degenerations
+"ICD10 Endocrine, nutritional and metabolic diseases",277.5,E755,Other disorders of lipoid metabolism
+"ICD10 Endocrine, nutritional and metabolic diseases",277.51,E771,Lipoprotein disorders
+"ICD10 Endocrine, nutritional and metabolic diseases",272.11,E780,Hypercholesterolemia
+"ICD10 Endocrine, nutritional and metabolic diseases",272.12,E781,Hyperglyceridemia
+"ICD10 Endocrine, nutritional and metabolic diseases",272.13,E782,Mixed hyperlipidemia
+"ICD10 Endocrine, nutritional and metabolic diseases",272.1,E785,Hyperlipidemia
+"ICD10 Endocrine, nutritional and metabolic diseases",272.9,E789,Unspecified disorder of lipoid metabolism
+"ICD10 Endocrine, nutritional and metabolic diseases",277.4,E807,Disorders of bilirubin excretion
+"ICD10 Endocrine, nutritional and metabolic diseases",275.1,E831,Disorders of iron metabolism
+"ICD10 Endocrine, nutritional and metabolic diseases",275.53,E833,Disorders of phosphorus metabolism
+"ICD10 Endocrine, nutritional and metabolic diseases",275.3,E834,Disorders of magnesium metabolism
+"ICD10 Endocrine, nutritional and metabolic diseases",275.5,E835,Disorders of calcium/phosphorus metabolism
+"ICD10 Endocrine, nutritional and metabolic diseases",270.33,E858,Amyloidosis
+"ICD10 Endocrine, nutritional and metabolic diseases",276.5,E86,Hypovolemia
+"ICD10 Endocrine, nutritional and metabolic diseases",276.11,E870,Hyperosmolality and/or hypernatremia
+"ICD10 Endocrine, nutritional and metabolic diseases",276.12,E871,Hyposmolality and/or hyponatremia
+"ICD10 Endocrine, nutritional and metabolic diseases",276.41,E872,Acidosis
+"ICD10 Endocrine, nutritional and metabolic diseases",276.42,E873,Alkalosis
+"ICD10 Endocrine, nutritional and metabolic diseases",276.13,E875,Hyperpotassemia
+"ICD10 Endocrine, nutritional and metabolic diseases",276.14,E876,Hypopotassemia
+"ICD10 Endocrine, nutritional and metabolic diseases",276.6,E877,Fluid overload
+"ICD10 Endocrine, nutritional and metabolic diseases",276.1,E878,Electrolyte imbalance
+"ICD10 Endocrine, nutritional and metabolic diseases",277,E880,Other disorders of metabolism
+"ICD10 Endocrine, nutritional and metabolic diseases",252.2,E892,Hypoparathyroidism
+ICD10 Mental and behavioural disorders,290.11,F001,Alzheimer's disease
+ICD10 Mental and behavioural disorders,290.1,F009,Dementias
+ICD10 Mental and behavioural disorders,290.16,F010,Vascular dementia
+ICD10 Mental and behavioural disorders,290.2,F051,Delirium due to conditions classified elsewhere
+ICD10 Mental and behavioural disorders,291.4,F06,Specific nonpsychotic mental disorders due to brain damage
+ICD10 Mental and behavioural disorders,295.3,F062,Psychosis
+ICD10 Mental and behavioural disorders,292.2,F067,Mild cognitive impairment
+ICD10 Mental and behavioural disorders,317,F100,Alcohol-related disorders
+ICD10 Mental and behavioural disorders,317.1,F106,Alcoholism
+ICD10 Mental and behavioural disorders,318,F179,Tobacco use disorder
+ICD10 Mental and behavioural disorders,290.3,F199,Other persistent mental disorders due to conditions classified elsewhere
+ICD10 Mental and behavioural disorders,296.22,F204,Major depressive disorder
+ICD10 Mental and behavioural disorders,291.1,F230,Transient mental disorders due to conditions classified elsewhere
+ICD10 Mental and behavioural disorders,295.2,F233,Paranoid disorders
+ICD10 Mental and behavioural disorders,295.1,F259,Schizophrenia
+ICD10 Mental and behavioural disorders,296.1,F30,Bipolar
+ICD10 Mental and behavioural disorders,300.4,F341,Dysthymic disorder
+ICD10 Mental and behavioural disorders,296,F388,Mood disorders
+ICD10 Mental and behavioural disorders,300.12,F401,"Agorophobia, social phobia, and panic disorder"
+ICD10 Mental and behavioural disorders,300.13,F408,Phobia
+ICD10 Mental and behavioural disorders,300.11,F411,Generalized anxiety disorder
+ICD10 Mental and behavioural disorders,300.1,F412,Anxiety disorder
+ICD10 Mental and behavioural disorders,300.3,F429,Obsessive-compulsive disorders
+ICD10 Mental and behavioural disorders,300.9,F431,Posttraumatic stress disorder
+ICD10 Mental and behavioural disorders,303.1,F449,Dissociative disorder
+ICD10 Mental and behavioural disorders,303.3,F458,Psychogenic disorder
+ICD10 Mental and behavioural disorders,303.4,F459,Somatoform disorder
+ICD10 Mental and behavioural disorders,300,F489,"Anxiety, phobic and dissociative disorders"
+ICD10 Mental and behavioural disorders,327,F519,Sleep disorders
+ICD10 Mental and behavioural disorders,316,F55,Substance addiction and disorders
+ICD10 Mental and behavioural disorders,301.2,F602,Antisocial/borderline personality disorder
+ICD10 Mental and behavioural disorders,301,F61,Personality disorders
+ICD10 Mental and behavioural disorders,302,F661,Sexual and gender identity disorders
+ICD10 Mental and behavioural disorders,315.3,F729,Mental retardation
+ICD10 Mental and behavioural disorders,315.1,F818,Learning disorder
+ICD10 Mental and behavioural disorders,313.3,F84,Autism
+ICD10 Mental and behavioural disorders,304,F948,Adjustment reaction
+ICD10 Mental and behavioural disorders,305.2,F983,Eating disorder
+ICD10 Mental and behavioural disorders,315.2,F986,Speech and language disorder
+ICD10 Diseases of the nervous system,325,G08,Phlebitis and thrombophlebitis of intracranial venous sinuses
+ICD10 Diseases of the nervous system,334.1,G110,Spinocerebellar disease
+ICD10 Diseases of the nervous system,334.2,G129,Anterior horn cell disease
+ICD10 Diseases of the nervous system,332,G20,Parkinson's disease
+ICD10 Diseases of the nervous system,349,G211,Other and unspecified disorders of the nervous system
+ICD10 Diseases of the nervous system,333.8,G230,Other degenerative diseases of the basal ganglia
+ICD10 Diseases of the nervous system,333.4,G24,Torsion dystonia
+ICD10 Diseases of the nervous system,333,G25,Extrapyramidal disease and abnormal movement disorders
+ICD10 Diseases of the nervous system,333.1,G250,Essential tremor
+ICD10 Diseases of the nervous system,333.2,G253,Myoclonus
+ICD10 Diseases of the nervous system,331.9,G310,"Cerebral degeneration, unspecified"
+ICD10 Diseases of the nervous system,290.12,G311,Dementia with cerebral degenerations
+ICD10 Diseases of the nervous system,335,G35,Multiple sclerosis
+ICD10 Diseases of the nervous system,341,G370,Other demyelinating diseases of central nervous system
+ICD10 Diseases of the nervous system,323.2,G373,Acute  myelitis
+ICD10 Diseases of the nervous system,345.12,G400,Partial epilepsy
+ICD10 Diseases of the nervous system,345.11,G404,Generalized convulsive epilepsy
+ICD10 Diseases of the nervous system,345.1,G408,Epilepsy
+ICD10 Diseases of the nervous system,345,G409,"Epilepsy, recurrent seizures, convulsions"
+ICD10 Diseases of the nervous system,340,G432,Migraine
+ICD10 Diseases of the nervous system,340.1,G433,Migrain with aura
+ICD10 Diseases of the nervous system,306.9,G442,Tension headache
+ICD10 Diseases of the nervous system,339,G448,Other headache syndromes
+ICD10 Diseases of the nervous system,433.31,G459,Transient cerebral ischemia
+ICD10 Diseases of the nervous system,433,G464,Cerebrovascular disease
+ICD10 Diseases of the nervous system,327.41,G470,Organic or persistent insomnia
+ICD10 Diseases of the nervous system,291.8,G471,Alteration of consciousness
+ICD10 Diseases of the nervous system,327.3,G473,Sleep apnea
+ICD10 Diseases of the nervous system,347,G474,Cataplexy and narcolepsy
+ICD10 Diseases of the nervous system,352.1,G501,Trigeminal nerve disorders 
+ICD10 Diseases of the nervous system,352.2,G511,Facial nerve disorders 
+ICD10 Diseases of the nervous system,352,G53,Disorders of other cranial nerves
+ICD10 Diseases of the nervous system,53.1,G530,Herpes zoster with nervous system complications
+ICD10 Diseases of the nervous system,353,G54,Nerve root and plexus disorders
+ICD10 Diseases of the nervous system,353.2,G544,Nerve root lesions
+ICD10 Diseases of the nervous system,353.1,G545,Nerve plexus lesions
+ICD10 Diseases of the nervous system,351,G576,Other peripheral nerve disorders
+ICD10 Diseases of the nervous system,356,G603,Hereditary and idiopathic peripheral neuropathy
+ICD10 Diseases of the nervous system,316.1,G620,Polyneuropathy due to drugs
+ICD10 Diseases of the nervous system,357,G622,Inflammatory and toxic neuropathy
+ICD10 Diseases of the nervous system,250.6,G632,Polyneuropathy in diabetes
+ICD10 Diseases of the nervous system,358.1,G700,Myasthenia gravis
+ICD10 Diseases of the nervous system,359.1,G712,Muscular dystrophies
+ICD10 Diseases of the nervous system,358,G733,Myoneural disorders
+ICD10 Diseases of the nervous system,359.2,G735,Myopathy
+ICD10 Diseases of the nervous system,343,G801,Infantile cerebral palsy
+ICD10 Diseases of the nervous system,342,G819,Hemiplegia
+ICD10 Diseases of the nervous system,344,G83,Other paralytic syndromes
+ICD10 Diseases of the nervous system,337,G90,Disorders of the autonomic nervous system
+ICD10 Diseases of the nervous system,337.1,G900,Peripheral autonomic neuropathy
+ICD10 Diseases of the nervous system,348.4,G930,Cerebral cysts
+ICD10 Diseases of the nervous system,348,G931,Other conditions of brain
+ICD10 Diseases of the nervous system,798.1,G933,Chronic fatigue syndrome
+ICD10 Diseases of the nervous system,348.8,G934,"Encephalopathy, not elsewhere classified"
+ICD10 Diseases of the nervous system,348.2,G935,Cerebral edema and compression of brain
+ICD10 Diseases of the nervous system,348.9,G939,"Other conditions of brain, NOS"
+ICD10 Diseases of the nervous system,331.1,G941,Hydrocephalus
+ICD10 Diseases of the nervous system,334,G952,Degenerative disease of the spinal cord
+ICD10 Diseases of the eye and adnexa,371.3,H019,Inflammation of eyelids
+ICD10 Diseases of the eye and adnexa,374.1,H021,Ectropion or entropion
+ICD10 Diseases of the eye and adnexa,374.2,H022,Lagophthalmos
+ICD10 Diseases of the eye and adnexa,374.3,H024,Ptosis of eyelid
+ICD10 Diseases of the eye and adnexa,374,H029,Other disorders of eyelids
+ICD10 Diseases of the eye and adnexa,369,H031,Infection of the eye
+ICD10 Diseases of the eye and adnexa,375,H04,Disorders of lacrimal system
+ICD10 Diseases of the eye and adnexa,375.2,H042,Epiphora
+ICD10 Diseases of the eye and adnexa,242.3,H062,Exophthalmos
+ICD10 Diseases of the eye and adnexa,369.5,H103,"Conjunctivitis, infectious"
+ICD10 Diseases of the eye and adnexa,372,H138,Disorders of conjunctiva
+ICD10 Diseases of the eye and adnexa,379.1,H151,Scleritis and episcleritis
+ICD10 Diseases of the eye and adnexa,379,H158,Other disorders of eye
+ICD10 Diseases of the eye and adnexa,370.1,H160,Corneal ulcer
+ICD10 Diseases of the eye and adnexa,370,H169,Keratitis
+ICD10 Diseases of the eye and adnexa,364.1,H179,Corneal opacity
+ICD10 Diseases of the eye and adnexa,364,H18,Corneal opacity and other disorders of cornea
+ICD10 Diseases of the eye and adnexa,364.2,H182,Corneal edema
+ICD10 Diseases of the eye and adnexa,364.4,H184,Corneal degenerations
+ICD10 Diseases of the eye and adnexa,364.5,H185,Corneal dystrophy
+ICD10 Diseases of the eye and adnexa,364.41,H186,Keratoconus
+ICD10 Diseases of the eye and adnexa,379.5,H215,Disorders of iris and ciliary body
+ICD10 Diseases of the eye and adnexa,366.2,H258,Senile cataract
+ICD10 Diseases of the eye and adnexa,366.1,H260,Nonsenile Cataract
+ICD10 Diseases of the eye and adnexa,366.3,H261,Traumatic cataract
+ICD10 Diseases of the eye and adnexa,366,H264,Cataract
+ICD10 Diseases of the eye and adnexa,379.3,H27,Aphakia and other disorders of lens
+ICD10 Diseases of the eye and adnexa,371.1,H309,"Uveitis, noninfectious or NOS"
+ICD10 Diseases of the eye and adnexa,363.3,H310,Chorioretinal scars
+ICD10 Diseases of the eye and adnexa,363.4,H311,Choroidal degenerations
+ICD10 Diseases of the eye and adnexa,363,H314,"Chorioretinal inflammations, scars, and other disorders of choroid"
+ICD10 Diseases of the eye and adnexa,361.1,H33,Retinal detachment with retinal defect
+ICD10 Diseases of the eye and adnexa,361.2,H331,Retinoschisis and retinal cysts
+ICD10 Diseases of the eye and adnexa,361,H332,Retinal detachments and defects
+ICD10 Diseases of the eye and adnexa,362.4,H342,Retinal vascular changes and abnomalities
+ICD10 Diseases of the eye and adnexa,362,H35,Other retinal disorders
+ICD10 Diseases of the eye and adnexa,362.3,H352,Other nondiabetic retinopathy
+ICD10 Diseases of the eye and adnexa,362.29,H353,Macular degeneration  of retina NOS
+ICD10 Diseases of the eye and adnexa,362.6,H354,Peripheral retinal degenerations
+ICD10 Diseases of the eye and adnexa,362.8,H356,Retinal hemorrhage/ischemia
+ICD10 Diseases of the eye and adnexa,362.31,H357,Separation of retinal layers
+ICD10 Diseases of the eye and adnexa,362.7,H36,Hereditary retinal dystrophies
+ICD10 Diseases of the eye and adnexa,365,H40,Glaucoma
+ICD10 Diseases of the eye and adnexa,365.11,H401,Primary open angle glaucoma
+ICD10 Diseases of the eye and adnexa,365.2,H402,Primary angle-closure glaucoma
+ICD10 Diseases of the eye and adnexa,379.2,H431,Disorders of vitreous body
+ICD10 Diseases of the eye and adnexa,371,H440,Inflammation of the eye
+ICD10 Diseases of the eye and adnexa,360.2,H442,Progressive myopia
+ICD10 Diseases of the eye and adnexa,360,H443,Disorders of the globe
+ICD10 Diseases of the eye and adnexa,360.3,H444,Hypotony of eye
+ICD10 Diseases of the eye and adnexa,377.3,H46,Optic neuritis/neuropathy
+ICD10 Diseases of the eye and adnexa,377,H471,Disorders of optic nerve and visual pathways
+ICD10 Diseases of the eye and adnexa,377.1,H472,Optic atrophy
+ICD10 Diseases of the eye and adnexa,378.5,H490,Paralytic strabismus
+ICD10 Diseases of the eye and adnexa,378.1,H501,Strabismus 
+ICD10 Diseases of the eye and adnexa,378,H508,Strabismus and other disorders of binocular eye movements
+ICD10 Diseases of the eye and adnexa,367.8,H520,Hypermetropia
+ICD10 Diseases of the eye and adnexa,367.1,H521,Myopia
+ICD10 Diseases of the eye and adnexa,367.2,H522,Astigmatism
+ICD10 Diseases of the eye and adnexa,368.3,H523,Anisometropia
+ICD10 Diseases of the eye and adnexa,367.4,H524,Presbyopia
+ICD10 Diseases of the eye and adnexa,368.1,H530,Amblyopia
+ICD10 Diseases of the eye and adnexa,368.2,H533,Diplopia and disorders of binocular vision
+ICD10 Diseases of the eye and adnexa,368.4,H534,Visual field defects
+ICD10 Diseases of the eye and adnexa,368,H538,Visual disturbances
+ICD10 Diseases of the eye and adnexa,367.9,H542,Blindness and low vision
+ICD10 Diseases of the eye and adnexa,378.2,H55,Nystagmus and other irregular eye movements
+ICD10 Diseases of the eye and adnexa,379.4,H570,Anomalies of pupillary function
+ICD10 Diseases of the eye and adnexa,379.9,H571,"Pain, swelling or discharge of eye"
+ICD10 Diseases of the eye and adnexa,380.1,H60,Otitis externa
+ICD10 Diseases of the eye and adnexa,380,H610,Disorders of external ear
+ICD10 Diseases of the eye and adnexa,380.4,H612,Impacted cerumen
+ICD10 Diseases of the eye and adnexa,381.11,H67,Suppurative and unspecified otitis media
+ICD10 Diseases of the eye and adnexa,381.2,H699,Eustachian tube disorders
+ICD10 Diseases of the eye and adnexa,384.4,H722,Perforation of tympanic membrane
+ICD10 Diseases of the eye and adnexa,384,H738,Other disorders of tympanic membrane
+ICD10 Diseases of the eye and adnexa,385.5,H741,Tympanosclerosis and middle ear disease related to otitis media
+ICD10 Diseases of the eye and adnexa,385.3,H744,Cholesteatoma
+ICD10 Diseases of the eye and adnexa,385,H749,Other disorders of middle ear and mastoid
+ICD10 Diseases of the eye and adnexa,381.3,H75,Mastoiditis & related conditions
+ICD10 Diseases of the eye and adnexa,383,H800,Otosclerosis
+ICD10 Diseases of the eye and adnexa,386.1,H810,Meniere's disease
+ICD10 Diseases of the eye and adnexa,386.2,H813,Peripheral or central vertigo
+ICD10 Diseases of the eye and adnexa,386,H819,Vertiginous syndromes and other disorders of vestibular system
+ICD10 Diseases of the eye and adnexa,386.3,H82,Labyrinthitis
+ICD10 Diseases of the eye and adnexa,389.3,H833,Degenerative and vascular disorders of ear
+ICD10 Diseases of the eye and adnexa,389.2,H900,Conductive hearing loss
+ICD10 Diseases of the eye and adnexa,389.1,H903,Sensorineural hearing loss
+ICD10 Diseases of the eye and adnexa,389,H907,Hearing loss
+ICD10 Diseases of the eye and adnexa,382,H920,Otalgia
+ICD10 Diseases of the eye and adnexa,381.9,H921,Otorrhea
+ICD10 Diseases of the eye and adnexa,389.4,H931,Tinnitus
+ICD10 Diseases of the eye and adnexa,388,H948,Other disorders of ear
+ICD10 Diseases of the circulatory system,394.2,I059,Mitral valve disease
+ICD10 Diseases of the circulatory system,394.3,I060,Aortic valve disease
+ICD10 Diseases of the circulatory system,394.7,I081,Disease of tricuspid valve
+ICD10 Diseases of the circulatory system,394,I083,Rheumatic disease of the heart valves
+ICD10 Diseases of the circulatory system,420.22,I092,Chronic pericarditis
+ICD10 Diseases of the circulatory system,401.1,I10,Essential hypertension
+ICD10 Diseases of the circulatory system,401.21,I110,Hypertensive heart disease
+ICD10 Diseases of the circulatory system,401.22,I12,Hypertensive chronic kidney disease
+ICD10 Diseases of the circulatory system,401.2,I13,Hypertensive heart and/or renal disease
+ICD10 Diseases of the circulatory system,411.1,I200,Unstable angina 
+ICD10 Diseases of the circulatory system,411.3,I208,Angina pectoris
+ICD10 Diseases of the circulatory system,411.2,I230,Myocardial infarction
+ICD10 Diseases of the circulatory system,411.9,I249,Other acute and subacute forms of ischemic heart disease
+ICD10 Diseases of the circulatory system,411.4,I251,Coronary atherosclerosis
+ICD10 Diseases of the circulatory system,411.8,I259,"Other chronic ischemic heart disease, unspecified"
+ICD10 Diseases of the circulatory system,415.11,I26,"Pulmonary embolism and infarction, acute"
+ICD10 Diseases of the circulatory system,415.21,I270,Primary pulmonary hypertension
+ICD10 Diseases of the circulatory system,415.2,I278,Chronic pulmonary heart disease
+ICD10 Diseases of the circulatory system,415,I288,Pulmonary heart disease
+ICD10 Diseases of the circulatory system,420.21,I301,Acute pericarditis
+ICD10 Diseases of the circulatory system,420.2,I31,Pericarditis
+ICD10 Diseases of the circulatory system,420.3,I33,Endocarditis
+ICD10 Diseases of the circulatory system,395.1,I34,Nonrheumatic mitral valve disorders
+ICD10 Diseases of the circulatory system,411.41,I341,Aneurysm and dissection of heart
+ICD10 Diseases of the circulatory system,395.2,I35,Nonrheumatic aortic valve disorders
+ICD10 Diseases of the circulatory system,395.3,I36,Nonrheumatic tricuspid valve disorders
+ICD10 Diseases of the circulatory system,395.4,I379,Nonrheumatic pulmonary valve disorders
+ICD10 Diseases of the circulatory system,420.1,I408,Myocarditis
+ICD10 Diseases of the circulatory system,425.11,I421,Hypertrophic obstructive cardiomyopathy
+ICD10 Diseases of the circulatory system,425.12,I422,Other hypertrophic cardiomyopathy
+ICD10 Diseases of the circulatory system,425.8,I426,Other cardiomyopathy
+ICD10 Diseases of the circulatory system,425.1,I429,Primary/intrinsic cardiomyopathies
+ICD10 Diseases of the circulatory system,426.21,I440,First degree AV block
+ICD10 Diseases of the circulatory system,426.23,I441,Second degree AV block
+ICD10 Diseases of the circulatory system,426.24,I442,"Atrioventricular block, complete"
+ICD10 Diseases of the circulatory system,426.2,I443,Atrioventricular  block
+ICD10 Diseases of the circulatory system,426.3,I446,Bundle branch block
+ICD10 Diseases of the circulatory system,426.32,I446,Left bundle branch block
+ICD10 Diseases of the circulatory system,426.31,I451,Right bundle branch block
+ICD10 Diseases of the circulatory system,426.25,I455,Other heart block
+ICD10 Diseases of the circulatory system,426.4,I456,Anomalous atrioventricular excitation
+ICD10 Diseases of the circulatory system,426.8,I458,Other cardiac conduction disorders
+ICD10 Diseases of the circulatory system,426,I459,Cardiac conduction disorders
+ICD10 Diseases of the circulatory system,427.42,I460,Cardiac arrest
+ICD10 Diseases of the circulatory system,427.1,I47,"Paroxysmal tachycardia, unspecified"
+ICD10 Diseases of the circulatory system,427.12,I470,Paroxysmal ventricular tachycardia
+ICD10 Diseases of the circulatory system,427.2,I48,Atrial fibrillation and flutter
+ICD10 Diseases of the circulatory system,427.41,I490,Ventricular fibrillation and flutter
+ICD10 Diseases of the circulatory system,427.61,I491,Supraventricular premature beats
+ICD10 Diseases of the circulatory system,427.11,I492,Paroxysmal supraventricular tachycardia
+ICD10 Diseases of the circulatory system,427.6,I494,Premature beats
+ICD10 Diseases of the circulatory system,427.8,I495,Sinoatrial node dysfunction 
+ICD10 Diseases of the circulatory system,427.5,I499,Arrhythmia  NOS
+ICD10 Diseases of the circulatory system,428.1,I500,Congestive heart failure  NOS
+ICD10 Diseases of the circulatory system,428.2,I509,Heart failure NOS
+ICD10 Diseases of the circulatory system,416,I517,Cardiomegaly
+ICD10 Diseases of the circulatory system,414,I519,Other forms of chronic heart disease
+ICD10 Diseases of the circulatory system,430.1,I609,Subarachnoid hemorrhage
+ICD10 Diseases of the circulatory system,430.2,I619,Intracerebral hemorrhage
+ICD10 Diseases of the circulatory system,430.3,I620,Subdural hemorrhage
+ICD10 Diseases of the circulatory system,430,I629,Intracranial hemorrhage
+ICD10 Diseases of the circulatory system,433.21,I630,"Cerebral artery occlusion, with cerebral infarction"
+ICD10 Diseases of the circulatory system,433.11,I632,"Occlusion of cerebral arteries, with cerebral infarction"
+ICD10 Diseases of the circulatory system,433.2,I639,Occlusion of cerebral arteries
+ICD10 Diseases of the circulatory system,433.1,I658,Occlusion and stenosis of precerebral arteries
+ICD10 Diseases of the circulatory system,433.3,I67,Cerebral ischemia
+ICD10 Diseases of the circulatory system,433.5,I671,Cerebral aneurysm
+ICD10 Diseases of the circulatory system,433.12,I672,Cerebral atherosclerosis
+ICD10 Diseases of the circulatory system,401.3,I674,Other hypertensive complications
+ICD10 Diseases of the circulatory system,433.8,I69,Late effects of cerebrovascular disease
+ICD10 Diseases of the circulatory system,440,I70,Atherosclerosis
+ICD10 Diseases of the circulatory system,440.9,I700,Atherosclerosis of aorta
+ICD10 Diseases of the circulatory system,440.1,I701,Atherosclerosis of renal artery
+ICD10 Diseases of the circulatory system,440.2,I702,Atherosclerosis of the extremities
+ICD10 Diseases of the circulatory system,442.1,I711,Aortic aneurysm
+ICD10 Diseases of the circulatory system,442.11,I714,Abdominal aortic aneurysm
+ICD10 Diseases of the circulatory system,442.8,I720,Aneurysm of other specified artery
+ICD10 Diseases of the circulatory system,442.2,I723,Aneurysm of iliac artery
+ICD10 Diseases of the circulatory system,442.3,I724,Aneurysm of artery of lower extremity
+ICD10 Diseases of the circulatory system,443.8,I73,Other specified peripheral vascular diseases
+ICD10 Diseases of the circulatory system,443.1,I730,Raynaud's syndrome
+ICD10 Diseases of the circulatory system,443.9,I739,"Peripheral vascular disease, unspecified"
+ICD10 Diseases of the circulatory system,444.2,I740,Embolism and thrombosis of abdominal aorta
+ICD10 Diseases of the circulatory system,444,I742,Arterial embolism and thrombosis
+ICD10 Diseases of the circulatory system,444.1,I743,Arterial embolism and thrombosis of lower extremity artery
+ICD10 Diseases of the circulatory system,447.1,I771,Stricture of artery
+ICD10 Diseases of the circulatory system,446.9,I776,Arteritis NOS
+ICD10 Diseases of the circulatory system,448,I78,Disease of capillaries
+ICD10 Diseases of the circulatory system,217.1,I781,"Nevus, non-neoplastic"
+ICD10 Diseases of the circulatory system,443.7,I798,Peripheral angiopathy in diseases classified elsewhere
+ICD10 Diseases of the circulatory system,451.2,I800,Phlebitis and thrombophlebitis of lower extremities
+ICD10 Diseases of the circulatory system,451,I809,Phlebitis and thrombophlebitis
+ICD10 Diseases of the circulatory system,452,I820,Other venous embolism and thrombosis
+ICD10 Diseases of the circulatory system,454.1,I83,Varicose veins of lower extremity
+ICD10 Diseases of the circulatory system,454.11,I832,"Varicose veins of lower extremity, symptomtic"
+ICD10 Diseases of the circulatory system,455,I840,Hemorrhoids
+ICD10 Diseases of the circulatory system,530.2,I85,Esophageal bleeding 
+ICD10 Diseases of the circulatory system,454,I861,Varicose veins
+ICD10 Diseases of the circulatory system,459,I871,Other disorders of circulatory system
+ICD10 Diseases of the circulatory system,456,I872,Chronic venous insufficiency 
+ICD10 Diseases of the circulatory system,459.9,I879,Circulatory disease NEC
+ICD10 Diseases of the circulatory system,450,I899,Noninfectious disorders of lymphatic channels
+ICD10 Diseases of the circulatory system,458.1,I951,Orthostatic hypotension
+ICD10 Diseases of the circulatory system,458.2,I952,Iatrogenic hypotension
+ICD10 Diseases of the circulatory system,458.9,I959,Hypotension NOS

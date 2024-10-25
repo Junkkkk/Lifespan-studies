@@ -1,0 +1,590 @@
+Category,Category,FiedID,Phenotype,Path
+Physical measures,100019,46,Hand grip strength (left),Assessment centre > Physical measures > Hand grip strength
+Physical measures,100019,47,Hand grip strength (right),Assessment centre > Physical measures > Hand grip strength
+Physical measures,100010,48,Waist circumference,Assessment centre > Physical measures > Anthropometry > Body size measures
+Physical measures,100010,49,Hip circumference,Assessment centre > Physical measures > Anthropometry > Body size measures
+Physical measures,100010,50,Standing height,Assessment centre > Physical measures > Anthropometry > Body size measures
+Physical measures,100010,51,Seated height,Assessment centre > Physical measures > Anthropometry > Body size measures
+Physical measures,100011,95,Pulse rate (during blood-pressure measurement),Assessment centre > Physical measures > Blood pressure
+Physical measures,100011,96,Time since interview start at which blood pressure screen(s) shown,Assessment centre > Physical measures > Blood pressure
+Touchscreen,100054,864,Number of days/week walked 10+ minutes,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,874,Duration of walks,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,884,Number of days/week of moderate physical activity 10+ minutes,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,894,Duration of moderate activity,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,904,Number of days/week of vigorous physical activity 10+ minutes,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,914,Duration of vigorous activity,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,924,Usual walking pace,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,943,Frequency of stair climbing in last 4 weeks,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,971,Frequency of walking for pleasure in last 4 weeks,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,981,Duration walking for pleasure,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,991,Frequency of strenuous sports in last 4 weeks,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,1001,Duration of strenuous sports,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,1011,Frequency of light DIY in last 4 weeks,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,1021,Duration of light DIY,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,1070,Time spent watching television (TV),Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,1080,Time spent using computer,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,1090,Time spent driving,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,1100,Drive faster than motorway speed limit,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,2624,Frequency of heavy DIY in last 4 weeks,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,2634,Duration of heavy DIY,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Physical measures,100010,3077,Seating box height,Assessment centre > Physical measures > Anthropometry > Body size measures
+Physical measures,100020,3088,Contra-indications for spirometry,Assessment centre > Physical measures > Spirometry
+Physical measures,100020,3089,Caffeine drink within last hour,Assessment centre > Physical measures > Spirometry
+Physical measures,100020,3090,Used an inhaler for chest within last hour,Assessment centre > Physical measures > Spirometry
+Physical measures,100020,3159,Smoked cigarette or pipe within last hour,Assessment centre > Physical measures > Spirometry
+Touchscreen,100054,3637,Frequency of other exercises in last 4 weeks,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,3647,Duration of other exercises,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Physical measures,100018,4093,Fractured heel (left),Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100018,4096,Fractured heel (right),Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100018,4100,Ankle spacing width (left),Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100018,4101,Heel broadband ultrasound attenuation (left),Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100018,4103,Speed of sound through heel (left),Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100018,4105,Heel bone mineral density (BMD) (left),Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100018,4119,Ankle spacing width (right),Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100018,4120,Heel broadband ultrasound attenuation (right),Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100018,4122,Speed of sound through heel (right),Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100018,4124,Heel bone mineral density (BMD) (right),Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100018,4143,"Heel bone mineral density (BMD) T-score, manual entry (right)",Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100049,4230,Signal-to-noise-ratio (SNR) of triplet (left),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4234,Time to press first digit (left),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4235,Time to press last digit (left),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4237,Time to press 'next' (left),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4239,Number of times 'clear' was pressed (left),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4241,Signal-to-noise-ratio (SNR) of triplet (right),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4245,Time to press first digit (right),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4246,Time to press last digit (right),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4247,Time to press 'next' (right),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4249,Number of times 'clear' was pressed (right),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4269,Number of triplets attempted (left),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4270,Volume level set by participant (left),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4272,Duration of hearing test (left),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4276,Number of triplets attempted (right),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4277,Volume level set by participant (right),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,4279,Duration of hearing test (right),Assessment centre > Physical measures > Hearing test
+Physical measures,100012,6014,Doctor restricts physical activity due to heart condition,Assessment centre > Physical measures > ECG during exercise
+Physical measures,100012,6015,Chest pain felt during physical activity,Assessment centre > Physical measures > ECG during exercise
+Physical measures,100012,6016,Chest pain felt outside physical activity,Assessment centre > Physical measures > ECG during exercise
+Physical measures,100012,6017,Able to walk or cycle unaided for 10 minutes,Assessment centre > Physical measures > ECG during exercise
+Physical measures,100012,6032,Maximum workload during fitness test,Assessment centre > Physical measures > ECG during exercise
+Physical measures,100012,6033,Maximum heart rate during fitness test,Assessment centre > Physical measures > ECG during exercise
+Physical measures,100012,6034,Target heart rate achieved,Assessment centre > Physical measures > ECG during exercise
+Physical measures,100012,6038,Number of trend entries,Assessment centre > Physical measures > ECG during exercise
+Physical measures,100012,6039,Duration of fitness test,Assessment centre > Physical measures > ECG during exercise
+Physical measures,100010,12143,Weight (pre-imaging),Assessment centre > Physical measures > Anthropometry > Body size measures
+Physical measures,100010,12144,Height,Assessment centre > Physical measures > Anthropometry > Body size measures
+Physical measures,101,12292,Carotid ultrasound measurement completed,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,104,12336,Ventricular rate,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,104,12338,P duration,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,104,12340,QRS duration,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,104,12654,Number of automated diagnostic comments recorded during 12-lead ECG,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,100010,20015,Sitting height,Assessment centre > Physical measures > Anthropometry > Body size measures
+Physical measures,100049,20019,Speech-reception-threshold (SRT) estimate (left),Assessment centre > Physical measures > Hearing test
+Physical measures,100049,20021,Speech-reception-threshold (SRT) estimate (right),Assessment centre > Physical measures > Hearing test
+Cognitive function online,117,20131,Number of correct matches in round,Online follow-up > Cognitive function online > Pairs matching
+Cognitive function online,117,20132,Number of incorrect matches in round,Online follow-up > Cognitive function online > Pairs matching
+Cognitive function online,117,20133,Time to complete round,Online follow-up > Cognitive function online > Pairs matching
+Cognitive function online,121,20147,Errors before selecting correct item in numeric path (trail #1),Online follow-up > Cognitive function online > Trail making
+Cognitive function online,121,20148,Errors before selecting correct item in alphanumeric path (trail #2),Online follow-up > Cognitive function online > Trail making
+Cognitive function online,121,20149,Interval between previous point and current one in numeric path (trail #1),Online follow-up > Cognitive function online > Trail making
+Physical measures,100020,20152,Reproduciblity of spirometry measurement using ERS/ATS criteria,Assessment centre > Physical measures > Spirometry
+Physical measures,100020,20154,"Forced expiratory volume in 1-second (FEV1), predicted percentage",Assessment centre > Physical measures > Spirometry
+Cognitive function online,121,20155,Interval between previous point and current one in alphanumeric path (trail #2),Online follow-up > Cognitive function online > Trail making
+Cognitive function online,121,20156,Duration to complete numeric path (trail #1),Online follow-up > Cognitive function online > Trail making
+Cognitive function online,121,20157,Duration to complete alphanumeric path (trail #2),Online follow-up > Cognitive function online > Trail making
+Cognitive function online,122,20159,Number of symbol digit matches made correctly,Online follow-up > Cognitive function online > Symbol digit substitution
+Cognitive function online,118,20167,FI2 : identify largest number,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,118,20191,Fluid intelligence score,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,122,20195,Number of symbol digit matches attempted,Online follow-up > Cognitive function online > Symbol digit substitution
+Cognitive function online,122,20200,Values wanted,Online follow-up > Cognitive function online > Symbol digit substitution
+Cognitive function online,122,20229,Values entered,Online follow-up > Cognitive function online > Symbol digit substitution
+Cognitive function online,122,20230,Duration to entering symbol choice,Online follow-up > Cognitive function online > Symbol digit substitution
+Cognitive function online,120,20240,Maximum digits remembered correctly,Online follow-up > Cognitive function online > Numeric memory
+Cognitive function online,118,20242,Fluid intelligence completion status,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,117,20244,Pairs matching completion status,Online follow-up > Cognitive function online > Pairs matching
+Cognitive function online,122,20245,Symbol digit completion status,Online follow-up > Cognitive function online > Symbol digit substitution
+Cognitive function online,121,20247,Total errors traversing numeric path (trail #1),Online follow-up > Cognitive function online > Trail making
+Cognitive function online,121,20248,Total errors traversing alphanumeric path (trail #2),Online follow-up > Cognitive function online > Trail making
+Physical measures,100020,20256,Forced expiratory volume in 1-second (FEV1) Z-score,Assessment centre > Physical measures > Spirometry
+Physical measures,100020,20257,Forced vital capacity (FVC) Z-score,Assessment centre > Physical measures > Spirometry
+Physical measures,100020,20258,FEV1/ FVC ratio Z-score,Assessment centre > Physical measures > Spirometry
+Physical measures,100010,21001,Body mass index (BMI),Assessment centre > Physical measures > Anthropometry > Body size measures
+Touchscreen,54,22032,IPAQ activity group,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity > MET Scores
+Touchscreen,54,22033,Summed days activity,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity > MET Scores
+Touchscreen,54,22034,Summed minutes activity,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity > MET Scores
+Touchscreen,54,22035,At or above moderate/vigorous recommendation,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity > MET Scores
+Touchscreen,54,22036,At or above moderate/vigorous/walking recommendation,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity > MET Scores
+Touchscreen,54,22037,MET minutes per week for walking,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity > MET Scores
+Touchscreen,54,22038,MET minutes per week for moderate activity,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity > MET Scores
+Touchscreen,54,22039,MET minutes per week for vigorous activity,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity > MET Scores
+Physical measures,104,22330,PQ interval,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,104,22331,QT interval,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,104,22332,QTC interval,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,104,22333,RR interval,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,104,22334,PP interval,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,104,22335,P axis,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,104,22336,R axis,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,104,22337,T axis,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,104,22338,QRS num,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Physical measures,101,22670,Minimum carotid IMT (intima-medial thickness) at 120 degrees ,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22671,Mean carotid IMT (intima-medial thickness) at 120 degrees ,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22672,Maximum carotid IMT (intima-medial thickness) at 120 degrees ,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22673,Minimum carotid IMT (intima-medial thickness) at 150 degrees ,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22674,Mean carotid IMT (intima-medial thickness) at 150 degrees ,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22675,Maximum carotid IMT (intima-medial thickness) at 150 degrees ,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22676,Minimum carotid IMT (intima-medial thickness) at 210 degrees ,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22677,Mean carotid IMT (intima-medial thickness) at 210 degrees ,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22678,Maximum carotid IMT (intima-medial thickness) at 210 degrees ,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22679,Minimum carotid IMT (intima-medial thickness) at 240 degrees ,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22680,Mean carotid IMT (intima-medial thickness) at 240 degrees ,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22681,Maximum carotid IMT (intima-medial thickness) at 240 degrees ,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22682,Quality control indicator for IMT at 120 degrees,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22683,Quality control indicator for IMT at 150 degrees,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22684,Quality control indicator for IMT at 210 degrees,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,101,22685,Quality control indicator for IMT at 240 degrees,Assessment centre > Physical measures > Carotid ultrasound
+Blood assays,1307,23000,1gG antigen for Herpes Simplex virus-1,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23001,2mgG unique antigen for Herpes Simplex virus-2,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23002,gE / gI antigen for Varicella Zoster Virus ,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23003,VCA p18 antigen for Epstein-Barr Virus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23004,EBNA-1 antigen for Epstein-Barr Virus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23005,ZEBRA antigen for Epstein-Barr Virus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23006,EA-D antigen for Epstein-Barr Virus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23007,pp150 Nter antigen for Human Cytomegalovirus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23008,pp 52 antigen for Human Cytomegalovirus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23009,pp 28 antigen for Human Cytomegalovirus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23010,IE1A antigen for Human Herpesvirus-6,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23011,IE1B antigen for Human Herpesvirus-6,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23012,p101 k antigen for Human Herpesvirus-6,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23013,U14 antigen for Human Herpesvirus-7,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23014,LANA antigen for Kaposi's Sarcoma-Associated Herpesvirus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23015,K8.1 antigen for Kaposi's Sarcoma-Associated Herpesvirus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23016,HBc antigen for Hepatitis B Virus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23017,HBe antigen for Hepatitis B Virus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23018,Core antigen for Hepatitis C Virus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23019,NS3 antigen for Hepatitis C Virus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23020,p22 antigen for Toxoplasma gondii,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23021,sag1 antigen for Toxoplasma gondii,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23022,HTLV-1 gag antigen for Human T-Lymphotropic Virus 1,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23023,HTLV-1 env antigen for Human T-Lymphotropic Virus 1,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23024,HIV-1 gag antigen for Human Immunodeficiency Virus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23025,HIV-1 env antigen for Human Immunodeficiency Virus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23026,BK VP1 antigen for Human Polyomavirus BKV,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23027,JC VP1 antigen for Human Polyomavirus JCV,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23028,MC VP1 antigen for Merkel Cell Polyomavirus,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23029,L1 antigen for Human Papillomavirus type-16,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23030,E6 antigen for Human Papillomavirus type-16,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23031,E7 antigen for Human Papillomavirus type-16,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23032,L1 antigen for Human Papillomavirus type-18,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23033,momp D antigen for Chlamydia trachomatis,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23034,momp A antigen for Chlamydia trachomatis,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23035,tarp-D F1 antigen for Chlamydia trachomatis,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23036,tarp-D F2 antigen for Chlamydia trachomatis,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23037,PorB antigen for Chlamydia trachomatis,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23038,pGP3 antigen for Chlamydia trachomatis,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23039,CagA antigen for Helicobacter pylori,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23040,VacA antigen for Helicobacter pylori,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23041,OMP antigen for Helicobacter pylori,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23042,GroEL antigen for Helicobacter pylori,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23043,Catalase antigen for Helicobacter pylori,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,1307,23044,UreA antigen for Helicobacter pylori,Biological samples > Blood assays > Infectious Diseases > Infectious Disease Antigens
+Blood assays,51428,23050,HSV-1 seropositivity for Herpes Simplex virus-1,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23051,HSV-2 seropositivity for Herpes Simplex virus-2,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23052,VZV seropositivity for Varicella Zoster Virus ,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23053,EBV seropositivity for Epstein-Barr Virus,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23054,CMV seropositivity for Human Cytomegalovirus,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23055,HHV-6 overall seropositivity for Human Herpesvirus-6,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23056,HHV-6A seropositivity for Human Herpesvirus-6,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23057,HHV-6B seropositivity for Human Herpesvirus-6,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23058,HHV-7 seropositivity for Human Herpesvirus-7,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23059,KSHV seropositivity for Kaposi's Sarcoma-Associated Herpesvirus,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23060,HBV seropositivity for Hepatitis B Virus,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23062,T. gondii seropositivity for Toxoplasma gondii,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23063,HTLV-1 seropositivity for Human T-Lymphotropic Virus 1,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23065,BKV seropositivity for Human Polyomavirus BKV,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23066,JCV seropositivity for Human Polyomavirus JCV,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23067,MCV seropositivity for Merkel Cell Polyomavirus,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23068,HPV 16 Definition I seropositivity for Human Papillomavirus type-16,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23069,HPV 18 seropositivity for Human Papillomavirus type-18,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23070,C. trachomatis Definition I seropositivity for Chlamydia trachomatis,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23071,C. trachomatis Definition II seropositivity for Chlamydia trachomatis,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23073,H. pylori Definition I seropositivity for Helicobacter pylori,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23074,H. pylori Definition II seropositivity for Helicobacter pylori,Biological samples > Blood assays > Infectious Diseases
+Blood assays,51428,23075,HPV 16 Definition II seropositivity for Human Papillomavirus type-16,Biological samples > Blood assays > Infectious Diseases
+Physical measures,100009,23099,Body fat percentage,Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23100,Whole body fat mass,Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23101,Whole body fat-free mass,Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23102,Whole body water mass,Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23107,Impedance of leg (right),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23108,Impedance of leg (left),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23109,Impedance of arm (right),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23110,Impedance of arm (left),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23111,Leg fat percentage (right),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23112,Leg fat mass (right),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23113,Leg fat-free mass (right),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23114,Leg predicted mass (right),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23115,Leg fat percentage (left),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23116,Leg fat mass (left),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23117,Leg fat-free mass (left),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23118,Leg predicted mass (left),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23119,Arm fat percentage (right),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23120,Arm fat mass (right),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23121,Arm fat-free mass (right),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23122,Arm predicted mass (right),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23123,Arm fat percentage (left),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23124,Arm fat mass (left),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23125,Arm fat-free mass (left),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23126,Arm predicted mass (left),Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23127,Trunk fat percentage,Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23128,Trunk fat mass,Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23129,Trunk fat-free mass,Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Physical measures,100009,23130,Trunk predicted mass,Assessment centre > Physical measures > Anthropometry > Body composition by impedance
+Imaging,190,26514,Volume of BrainSeg (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26515,Volume of BrainSegNotVent (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26516,Volume of BrainSegNotVentSurf (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26517,Volume of SubCortGray (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26518,Volume of TotalGray (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26519,Volume of SupraTentorial (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26520,Volume of SupraTentorialNotVent (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26521,Volume of EstimatedTotalIntraCranial (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26522,Volume of VentricleChoroid (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26523,Volume of 3rd-Ventricle (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26524,Volume of 4th-Ventricle (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26525,Volume of 5th-Ventricle (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26526,Volume of Brain-Stem (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26527,Volume of CSF (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26528,Volume of WM-hypointensities (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26529,Volume of non-WM-hypointensities (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26530,Volume of Optic-Chiasm (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26531,Volume of CC-Posterior (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26532,Volume of CC-Mid-Posterior (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26533,Volume of CC-Central (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26534,Volume of CC-Mid-Anterior (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26535,Volume of CC-Anterior (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26536,Volume-ratio of BrainSegVol-to-eTIV (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26537,Volume-ratio of MaskVol-to-eTIV (whole brain),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26552,Volume of Cortex (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26553,Volume of CerebralWhiteMatter (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26554,Volume of Lateral-Ventricle (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26555,Volume of Inf-Lat-Vent (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26556,Volume of Cerebellum-White-Matter (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26557,Volume of Cerebellum-Cortex (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26558,Volume of Thalamus-Proper (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26559,Volume of Caudate (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26560,Volume of Putamen (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26561,Volume of Pallidum (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26562,Volume of Hippocampus (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26563,Volume of Amygdala (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26564,Volume of Accumbens-area (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26565,Volume of VentralDC (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26566,Volume of vessel (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26567,Volume of choroid-plexus (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26568,Number of HolesBeforeFixing (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26583,Volume of Cortex (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26584,Volume of CerebralWhiteMatter (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26585,Volume of Lateral-Ventricle (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26586,Volume of Inf-Lat-Vent (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26587,Volume of Cerebellum-White-Matter (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26588,Volume of Cerebellum-Cortex (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26589,Volume of Thalamus-Proper (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26590,Volume of Caudate (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26591,Volume of Putamen (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26592,Volume of Pallidum (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26593,Volume of Hippocampus (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26594,Volume of Amygdala (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26595,Volume of Accumbens-area (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26596,Volume of VentralDC (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26597,Volume of vessel (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26598,Volume of choroid-plexus (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,190,26599,Number of HolesBeforeFixing (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer ASEG
+Imaging,192,26757,Mean thickness of caudalanteriorcingulate (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26758,Mean thickness of caudalmiddlefrontal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26759,Mean thickness of cuneus (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26761,Mean thickness of fusiform (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26762,Mean thickness of inferiorparietal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26763,Mean thickness of inferiortemporal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26764,Mean thickness of isthmuscingulate (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26765,Mean thickness of lateraloccipital (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26766,Mean thickness of lateralorbitofrontal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26767,Mean thickness of lingual (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26768,Mean thickness of medialorbitofrontal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26769,Mean thickness of middletemporal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26770,Mean thickness of parahippocampal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26771,Mean thickness of paracentral (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26772,Mean thickness of parsopercularis (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26773,Mean thickness of parsorbitalis (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26774,Mean thickness of parstriangularis (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26775,Mean thickness of pericalcarine (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26776,Mean thickness of postcentral (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26777,Mean thickness of posteriorcingulate (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26778,Mean thickness of precentral (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26779,Mean thickness of precuneus (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26780,Mean thickness of rostralanteriorcingulate (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26781,Mean thickness of rostralmiddlefrontal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26782,Mean thickness of superiorfrontal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26783,Mean thickness of superiorparietal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26784,Mean thickness of superiortemporal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26785,Mean thickness of supramarginal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26787,Mean thickness of transversetemporal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26788,Mean thickness of insula (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26790,Volume of caudalanteriorcingulate (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26791,Volume of caudalmiddlefrontal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26792,Volume of cuneus (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26794,Volume of fusiform (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26795,Volume of inferiorparietal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26796,Volume of inferiortemporal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26797,Volume of isthmuscingulate (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26798,Volume of lateraloccipital (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26799,Volume of lateralorbitofrontal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26800,Volume of lingual (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26801,Volume of medialorbitofrontal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26802,Volume of middletemporal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26803,Volume of parahippocampal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26804,Volume of paracentral (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26805,Volume of parsopercularis (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26806,Volume of parsorbitalis (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26807,Volume of parstriangularis (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26808,Volume of pericalcarine (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26809,Volume of postcentral (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26810,Volume of posteriorcingulate (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26811,Volume of precentral (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26812,Volume of precuneus (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26813,Volume of rostralanteriorcingulate (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26814,Volume of rostralmiddlefrontal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26815,Volume of superiorfrontal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26816,Volume of superiorparietal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26817,Volume of superiortemporal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26818,Volume of supramarginal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26820,Volume of transversetemporal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26821,Volume of insula (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26858,Mean thickness of caudalanteriorcingulate (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26859,Mean thickness of caudalmiddlefrontal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26860,Mean thickness of cuneus (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26862,Mean thickness of fusiform (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26863,Mean thickness of inferiorparietal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26864,Mean thickness of inferiortemporal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26865,Mean thickness of isthmuscingulate (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26866,Mean thickness of lateraloccipital (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26867,Mean thickness of lateralorbitofrontal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26868,Mean thickness of lingual (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26869,Mean thickness of medialorbitofrontal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26870,Mean thickness of middletemporal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26871,Mean thickness of parahippocampal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26872,Mean thickness of paracentral (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26873,Mean thickness of parsopercularis (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26874,Mean thickness of parsorbitalis (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26875,Mean thickness of parstriangularis (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26876,Mean thickness of pericalcarine (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26877,Mean thickness of postcentral (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26878,Mean thickness of posteriorcingulate (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26879,Mean thickness of precentral (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26880,Mean thickness of precuneus (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26881,Mean thickness of rostralanteriorcingulate (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26882,Mean thickness of rostralmiddlefrontal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26883,Mean thickness of superiorfrontal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26884,Mean thickness of superiorparietal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26885,Mean thickness of superiortemporal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26886,Mean thickness of supramarginal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26888,Mean thickness of transversetemporal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26889,Mean thickness of insula (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26891,Volume of caudalanteriorcingulate (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26892,Volume of caudalmiddlefrontal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26893,Volume of cuneus (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26895,Volume of fusiform (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26896,Volume of inferiorparietal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26897,Volume of inferiortemporal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26898,Volume of isthmuscingulate (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26899,Volume of lateraloccipital (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26900,Volume of lateralorbitofrontal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26901,Volume of lingual (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26902,Volume of medialorbitofrontal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26903,Volume of middletemporal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26904,Volume of parahippocampal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26905,Volume of paracentral (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26906,Volume of parsopercularis (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26907,Volume of parsorbitalis (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26908,Volume of parstriangularis (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26909,Volume of pericalcarine (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26910,Volume of postcentral (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26911,Volume of posteriorcingulate (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26912,Volume of precentral (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26913,Volume of precuneus (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26914,Volume of rostralanteriorcingulate (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26915,Volume of rostralmiddlefrontal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26916,Volume of superiorfrontal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26917,Volume of superiorparietal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26918,Volume of superiortemporal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26919,Volume of supramarginal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26921,Volume of transversetemporal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,192,26922,Volume of insula (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer desikan white
+Imaging,195,27086,Mean thickness of entorhinal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer BA exvivo
+Imaging,195,27100,Volume of entorhinal (left hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer BA exvivo
+Imaging,195,27128,Mean thickness of entorhinal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer BA exvivo
+Imaging,195,27142,Volume of entorhinal (right hemisphere),Assessment centre > Imaging > Brain MRI > T1 structural brain MRI > Freesurfer BA exvivo
+Blood assays,100081,30000,White blood cell (leukocyte) count,Biological samples > Blood assays > Blood count
+Blood assays,100081,30010,Red blood cell (erythrocyte) count,Biological samples > Blood assays > Blood count
+Blood assays,100081,30020,Haemoglobin concentration,Biological samples > Blood assays > Blood count
+Blood assays,100081,30030,Haematocrit percentage,Biological samples > Blood assays > Blood count
+Blood assays,100081,30040,Mean corpuscular volume,Biological samples > Blood assays > Blood count
+Blood assays,100081,30050,Mean corpuscular haemoglobin,Biological samples > Blood assays > Blood count
+Blood assays,100081,30060,Mean corpuscular haemoglobin concentration,Biological samples > Blood assays > Blood count
+Blood assays,100081,30070,Red blood cell (erythrocyte) distribution width,Biological samples > Blood assays > Blood count
+Blood assays,100081,30080,Platelet count,Biological samples > Blood assays > Blood count
+Blood assays,100081,30090,Platelet crit,Biological samples > Blood assays > Blood count
+Blood assays,100081,30100,Mean platelet (thrombocyte) volume,Biological samples > Blood assays > Blood count
+Blood assays,100081,30110,Platelet distribution width,Biological samples > Blood assays > Blood count
+Blood assays,100081,30120,Lymphocyte count,Biological samples > Blood assays > Blood count
+Blood assays,100081,30130,Monocyte count,Biological samples > Blood assays > Blood count
+Blood assays,100081,30140,Neutrophill count,Biological samples > Blood assays > Blood count
+Blood assays,100081,30150,Eosinophill count,Biological samples > Blood assays > Blood count
+Blood assays,100081,30160,Basophill count,Biological samples > Blood assays > Blood count
+Blood assays,100081,30170,Nucleated red blood cell count,Biological samples > Blood assays > Blood count
+Blood assays,100081,30180,Lymphocyte percentage,Biological samples > Blood assays > Blood count
+Blood assays,100081,30190,Monocyte percentage,Biological samples > Blood assays > Blood count
+Blood assays,100081,30200,Neutrophill percentage,Biological samples > Blood assays > Blood count
+Blood assays,100081,30210,Eosinophill percentage,Biological samples > Blood assays > Blood count
+Blood assays,100081,30220,Basophill percentage,Biological samples > Blood assays > Blood count
+Blood assays,100081,30230,Nucleated red blood cell percentage,Biological samples > Blood assays > Blood count
+Blood assays,100081,30240,Reticulocyte percentage,Biological samples > Blood assays > Blood count
+Blood assays,100081,30250,Reticulocyte count,Biological samples > Blood assays > Blood count
+Blood assays,100081,30260,Mean reticulocyte volume,Biological samples > Blood assays > Blood count
+Blood assays,100081,30270,Mean sphered cell volume,Biological samples > Blood assays > Blood count
+Blood assays,100081,30280,Immature reticulocyte fraction,Biological samples > Blood assays > Blood count
+Blood assays,100081,30290,High light scatter reticulocyte percentage,Biological samples > Blood assays > Blood count
+Blood assays,100081,30300,High light scatter reticulocyte count,Biological samples > Blood assays > Blood count
+Physical activity measurement,1009,90012,Overall acceleration average,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1009,90013,Standard deviation of acceleration,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1009,90019,Monday average acceleration,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1009,90020,Tuesday average acceleration,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1009,90021,Wednesday average acceleration,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1009,90022,Thursday average acceleration,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1009,90023,Friday average acceleration,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1009,90024,Saturday average acceleration,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1009,90025,Sunday average acceleration,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1011,90051,Wear duration overall,Additional exposures > Physical activity measurement > Accelerometer wear time duration
+Physical activity measurement,1011,90052,Non wear duration overall,Additional exposures > Physical activity measurement > Accelerometer wear time duration
+Physical activity measurement,1011,90084,Unique hours of wear in a 24 hour cycle (scattered over multiple days),Additional exposures > Physical activity measurement > Accelerometer wear time duration
+Physical activity measurement,1011,90085,Unique minutes of wear in a 24 hour cycle (scattered over multiple days),Additional exposures > Physical activity measurement > Accelerometer wear time duration
+Physical activity measurement,1011,90086,Non wear episodes over 1 hour duration,Additional exposures > Physical activity measurement > Accelerometer wear time duration
+Physical activity measurement,1009,90087,No-wear time bias adjusted average acceleration,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1009,90088,No-wear time bias adjusted acceleration standard deviation,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1009,90089,No-wear time bias adjusted acceleration median,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1009,90090,No-wear time bias adjusted acceleration minimum,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1009,90091,No-wear time bias adjusted acceleration maximum,Additional exposures > Physical activity measurement > Acceleration averages
+Physical activity measurement,1010,90092,Fraction acceleration <= 1 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90093,Fraction acceleration <= 2 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90094,Fraction acceleration <= 3 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90095,Fraction acceleration <= 4 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90096,Fraction acceleration <= 5 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90097,Fraction acceleration <= 6 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90098,Fraction acceleration <= 7 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90099,Fraction acceleration <= 8 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90100,Fraction acceleration <= 9 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90101,Fraction acceleration <= 10 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90102,Fraction acceleration <= 11 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90103,Fraction acceleration <= 12 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90104,Fraction acceleration <= 13 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90105,Fraction acceleration <= 14 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90106,Fraction acceleration <= 15 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90107,Fraction acceleration <= 16 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90108,Fraction acceleration <= 17 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90109,Fraction acceleration <= 18 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90110,Fraction acceleration <= 19 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90111,Fraction acceleration <= 20 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90112,Fraction acceleration <= 25 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90113,Fraction acceleration <= 30 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90114,Fraction acceleration <= 35 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90115,Fraction acceleration <= 40 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90116,Fraction acceleration <= 45 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90117,Fraction acceleration <= 50 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90118,Fraction acceleration <= 55 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90119,Fraction acceleration <= 60 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90120,Fraction acceleration <= 65 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90121,Fraction acceleration <= 70 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90122,Fraction acceleration <= 75 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90123,Fraction acceleration <= 80 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90124,Fraction acceleration <= 85 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90125,Fraction acceleration <= 90 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90126,Fraction acceleration <= 95 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90127,Fraction acceleration <= 100 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90128,Fraction acceleration <= 125 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90129,Fraction acceleration <= 150 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90130,Fraction acceleration <= 175 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90131,Fraction acceleration <= 200 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90132,Fraction acceleration <= 225 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90133,Fraction acceleration <= 250 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90134,Fraction acceleration <= 275 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90135,Fraction acceleration <= 300 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90136,Fraction acceleration <= 325 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90137,Fraction acceleration <= 350 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90138,Fraction acceleration <= 375 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90139,Fraction acceleration <= 400 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90140,Fraction acceleration <= 425 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90141,Fraction acceleration <= 450 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90142,Fraction acceleration <= 475 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90143,Fraction acceleration <= 500 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90144,Fraction acceleration <= 600 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90145,Fraction acceleration <= 700 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90146,Fraction acceleration <= 800 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90147,Fraction acceleration <= 900 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90148,Fraction acceleration <= 1000 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90149,Fraction acceleration <= 1100 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90150,Fraction acceleration <= 1200 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90151,Fraction acceleration <= 1300 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90152,Fraction acceleration <= 1400 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90153,Fraction acceleration <= 1500 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90154,Fraction acceleration <= 1600 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90155,Fraction acceleration <= 1700 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90156,Fraction acceleration <= 1800 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90157,Fraction acceleration <= 1900 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1010,90158,Fraction acceleration <= 2000 milli-gravities,Additional exposures > Physical activity measurement > Acceleration intensity distribution
+Physical activity measurement,1013,90187,Total data readings,Additional exposures > Physical activity measurement > Raw accelerometer statistics
+Physical activity measurement,1013,90188,Sample rate average,Additional exposures > Physical activity measurement > Raw accelerometer statistics
+Physical activity measurement,1013,90189,Sample rate standard deviation,Additional exposures > Physical activity measurement > Raw accelerometer statistics
+Physical activity measurement,1013,90190,Sample rate minimum,Additional exposures > Physical activity measurement > Raw accelerometer statistics
+Physical activity measurement,1013,90191,Sample rate maximum,Additional exposures > Physical activity measurement > Raw accelerometer statistics
+Physical activity measurement,1013,90192,Temperature average,Additional exposures > Physical activity measurement > Raw accelerometer statistics
+Physical activity measurement,1013,90193,Temperature standard deviation,Additional exposures > Physical activity measurement > Raw accelerometer statistics
+Physical activity measurement,1013,90194,Temperature minimum,Additional exposures > Physical activity measurement > Raw accelerometer statistics
+Physical activity measurement,1013,90195,Temperature maximum,Additional exposures > Physical activity measurement > Raw accelerometer statistics
+Diet by 24-hour recall,100108,104900,Time spent doing vigorous physical activity,Online follow-up > Diet by 24-hour recall > Physical activity yesterday
+Diet by 24-hour recall,100108,104910,Time spent doing moderate physical activity,Online follow-up > Diet by 24-hour recall > Physical activity yesterday
+Diet by 24-hour recall,100108,104920,Time spent doing light physical activity,Online follow-up > Diet by 24-hour recall > Physical activity yesterday
+Physical measures,101,12291,Carotid ultrasound measuring method,Assessment centre > Physical measures > Carotid ultrasound
+Physical measures,104,12323,12-lead ECG measuring method,"Assessment centre > Physical measures > ECG at rest, 12-lead"
+Cognitive function online,118,20165,FI1 : numeric addition test,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,118,20169,FI3 : word interpolation,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,118,20171,FI4 : positional arithmetic,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,118,20173,FI5 : family relationship calculation,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,118,20175,FI6 : conditional arithmetic,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,118,20177,FI7 : synonym,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,118,20179,FI8 : chained arithmetic,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,118,20181,FI9 : concept interpolation,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,118,20183,FI10 : arithmetic sequence recognition,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,118,20185,FI11 : antonym,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,118,20187,FI12 : square sequence recognition,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,118,20189,FI13 : subset inclusion logic,Online follow-up > Cognitive function online > Fluid intelligence / reasoning
+Cognitive function online,121,20246,Trail making completion status,Online follow-up > Cognitive function online > Trail making
+Physical measures,100020,20255,Spirometry QC measure,Assessment centre > Physical measures > Spirometry
+Mental health,138,20536,Weight change during worst episode of depression,Online follow-up > Mental health > Depression
+Physical measures,100010,21,Weight method,Assessment centre > Physical measures > Anthropometry > Body size measures
+Physical measures,100011,4081,Method of measuring blood pressure,Assessment centre > Physical measures > Blood pressure
+Physical measures,100018,4092,Heel ultrasound method (left),Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100018,4095,Heel ultrasound method (right),Assessment centre > Physical measures > Bone-densitometry of heel
+Physical measures,100049,4849,Hearing test done,Assessment centre > Physical measures > Hearing test
+Physical measures,100012,6019,ECG/bike method for fitness test,Assessment centre > Physical measures > ECG during exercise
+Physical measures,100012,6020,Completion status of test,Assessment centre > Physical measures > ECG during exercise
+Touchscreen,100054,6162,Types of transport used (excluding work): Car/motor vehicle,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,6162,Types of transport used (excluding work),Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,6162,Types of transport used (excluding work): Walk,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,6162,Types of transport used (excluding work): Public transport,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,6162,Types of transport used (excluding work): Cycle,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,6164,Types of physical activity in last 4 weeks: Walking for pleasure (not as a means of transport),Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,6164,Types of physical activity in last 4 weeks,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,6164,"Types of physical activity in last 4 weeks: Other exercises (eg: swimming, cycling, keep fit, bowling)",Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,6164,Types of physical activity in last 4 weeks: Strenuous sports,Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,6164,"Types of physical activity in last 4 weeks: Light DIY (eg: pruning, watering the lawn)",Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Touchscreen,100054,6164,"Types of physical activity in last 4 weeks: Heavy DIY (eg: weeding, lawn mowing, carpentry, digging)",Assessment centre > Touchscreen > Lifestyle and environment > Physical activity
+Physical activity measurement,1011,90026,First weekday of wear,Additional exposures > Physical activity measurement > Accelerometer wear time duration
+Illnesses of father,100034,20107,Illnesses of father,Assessment centre > Touchscreen > Family history
+Illnesses of mother,100034,20110,Illnesses of mother,Assessment centre > Touchscreen > Family history
+Illnesses of siblings,100034,20111,Illnesses of siblings,Assessment centre > Touchscreen > Family history
+Illnesses of adopted father,100034,20112,Illnesses of adopted father,Assessment centre > Touchscreen > Family history
