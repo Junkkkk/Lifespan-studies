@@ -6,9 +6,6 @@ if (group=='all'){
   pheno_txt <- 'pheno_393833_all.txt'
   completeID_txt <- 'completeDataID_393833_all.txt'
   pheno_covar <- read.csv('pheno_covar_393833_caucasian_survial_death_residuals.csv')
-  
-  # Male 1 / Female 2
-  pheno_covar[pheno_covar$Sex==0,'Sex']=2
 }
 else if (group=='male'){
   pheno_txt <- 'pheno_180970_male.txt'
@@ -20,6 +17,9 @@ else if (group=='female'){
   completeID_txt <- 'completeDataID_212863_female.txt'
   pheno_covar <- read.csv('pheno_covar_212863_caucasian_survial_death_residuals_female.csv')
 }
+
+# Male 0 -> 2
+pheno_covar[pheno_covar$Sex==0,'Sex']=2
 
 ### extract bfile ###
 anno <- fread(anno_csv_file)
