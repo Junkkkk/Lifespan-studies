@@ -8,7 +8,7 @@ m=pd.read_csv('ukb_Month_of_birth.csv')
 ym=pd.merge(y,m,on='eid')
 ym['Birth'] = pd.to_datetime(ym[['34-0.0', '52-0.0']].astype(str).apply('-'.join, axis=1))
 
-# the latest censoring date (November 30, 2023)
+# the latest censoring date (November 30, 2022)
 ym['Current'] = pd.to_datetime('2022-11-30')
 
 ym['age_years'] = ym['Current'].dt.year - ym['Birth'].dt.year

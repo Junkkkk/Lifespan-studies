@@ -37,8 +37,8 @@ for (i in 1:nrow(genes_variant)) {
   pc_columns <- paste0("PC", 1:40)
   c_columns <- paste0("c", 1:15)
   
-  formula <- as.formula(paste("Surv(last_known_age, Death) ~ Sex + ", paste(pc_columns, collapse = " + "), " + ",
-                              paste(c_columns, collapse = " + "), " + ", variant_type, "_carrier + cluster(FID)"))
+  formula <- as.formula(paste("Surv(Age_1st_visit, last_known_age, Death) ~ Sex + ", paste(pc_columns, collapse = " + "), " + ",
+                              paste(c_columns, collapse = " + "), " + ", variant_type, "_carrier"))
   
   # Run Cox regression model
   cox_model <- coxph(formula, data = df)

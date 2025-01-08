@@ -1,12 +1,14 @@
 library(data.table)
 library(SKAT)
 
-
 ## Set group
 if (group=='all'){
   pheno_txt <- 'pheno_393833_all.txt'
   completeID_txt <- 'completeDataID_393833_all.txt'
   pheno_covar <- read.csv('pheno_covar_393833_caucasian_survial_death_residuals.csv')
+  
+  # Male 1 / Female 2
+  pheno_covar[pheno_covar$Sex==0,'Sex']=2
 }
 else if (group=='male'){
   pheno_txt <- 'pheno_180970_male.txt'
@@ -26,7 +28,7 @@ if (nrow(anno) == 0){
 return(NULL)
 }
 
-# 1, 2, 3, ... , 22
+# 23
 chr_num <- gsub(".*/chr(\\d+)/.*", "\\1", anno_csv_file)
 # APOE, BRCA1, ...
 gene <- gsub(".csv","",strsplit(basename(anno_csv_file), "_")[[1]][1])
@@ -96,15 +98,17 @@ for (i in 1:length(SNPs)){
     SSD.Info <- Open_SSD(File.SSD, File.Info)
     Set.Index <- 1 # only one gene set in this SSD file
     Z <- Get_Genotypes_SSD(SSD.Info, Set.Index, is_ID = F)
+    
+    Y <-as.matrix(dfm$adjusted_martingale_residuals)
 
     # Burden
-    prelim <- SKAT_Null_Model(dfm$adjusted_martingale_residuals ~ 1, out_type="C")
-    fit <- SKAT(Z, prelim, method='Burden', kernel="linear.weighted", weights.beta=c(1,25), is_dosage = FALSE, estimate_MAF=1)
+    prelim <- SKAT_Null_Model_ChrX(Y~ sex, SexVar="sex", out_type="C")
+    fit <- SKAT_ChrX(Z, prelim, method='Burden', kernel="linear.weighted", weights.beta=c(1,25), is_dosage = FALSE, estimate_MAF=1)
     results <- rbind(results, c(gene, names[i], fit$p.value, fit$param$n.marker, fit$param$n.marker.test, 'Burden'))
 
     # SKAT-O
-    prelim <- SKAT_Null_Model(dfm$adjusted_martingale_residuals ~ 1, out_type="C")
-    fit <- SKAT(Z, prelim, method='SKATO', kernel="linear.weighted", weights.beta=c(1,25), is_dosage = FALSE, estimate_MAF=1)
+    prelim <- SKAT_Null_Model_ChrX(Y~ sex, SexVar="sex", out_type="C")
+    fit <- SKAT_ChrX(Z, prelim, method='SKATO', kernel="linear.weighted", weights.beta=c(1,25), is_dosage = FALSE, estimate_MAF=1)
     results <- rbind(results, c(gene, names[i], fit$p.value, fit$param$n.marker, fit$param$n.marker.test, 'SKATO'))
 
     # close SSD file
