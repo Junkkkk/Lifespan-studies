@@ -1,22 +1,12 @@
 library(data.table)
 library(SKAT)
 
-## Set group
-if (group=='all'){
-  pheno_txt <- 'pheno_393833_all.txt'
-  completeID_txt <- 'completeDataID_393833_all.txt'
-  pheno_covar <- read.csv('pheno_covar_393833_caucasian_survial_death_residuals.csv')
-}
-else if (group=='male'){
-  pheno_txt <- 'pheno_180970_male.txt'
-  completeID_txt <- 'completeDataID_180970_male.txt'
-  pheno_covar <- read.csv('pheno_covar_180970_caucasian_survial_death_residuals_male.csv')
-}
-else if (group=='female'){
-  pheno_txt <- 'pheno_212863_female.txt'
-  completeID_txt <- 'completeDataID_212863_female.txt'
-  pheno_covar <- read.csv('pheno_covar_212863_caucasian_survial_death_residuals_female.csv')
-}
+
+pheno_txt <- 'pheno_73281.txt'
+completeID_txt <- 'completeDataID_73281.txt'
+pheno_covar_file <- 'pheno_covar_73281_survial_death_residuals_independent_samples.csv'
+
+pheno_covar <- read.csv(pheno_covar_file)
 
 # Male 0 -> 2
 pheno_covar[pheno_covar$Sex==0,'Sex']=2
@@ -99,7 +89,7 @@ for (i in 1:length(SNPs)){
     Set.Index <- 1 # only one gene set in this SSD file
     Z <- Get_Genotypes_SSD(SSD.Info, Set.Index, is_ID = F)
     
-    Y <-as.matrix(dfm$adjusted_martingale_residuals)
+    Y <-as.matrix(dfm$adjusted_martingale_residuals_fold)
 
     # Burden
     prelim <- SKAT_Null_Model_ChrX(Y~ sex, SexVar="sex", out_type="C")
