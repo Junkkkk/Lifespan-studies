@@ -15,3 +15,6 @@ This folder focuses on GWAS analyses for common variants using linear mixed mode
 ### 3. Rare Variants Studies
 
 This folder contains scripts for gene-based rare variant association studies using SKAT-O and burden tests.
+
+
+For further details or inquiries, please contact jpark01@stanford.edu
